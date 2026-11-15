@@ -7,7 +7,7 @@
 - year: 1929
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A → C → C → A → Coda
+Form: Intro → A → B → A → C, short → C → A → Coda
 
 ## Intro
 ```
@@ -33,6 +33,16 @@ Em G7 | F#7 | % | Bm
 Bm F#7 | Bm F#7 | B7 | Em
 Em C#m7(b5) | Bm | G#° F#7(b13)
 1. | Bm F#7 :| 2. Bm A7 |
+```
+
+## C, short
+Key: G
+
+```
+G Em | A7 | D7 | G
+G Em | Bm | F#7 | B7
+G Em | Am Am7 | B7 | Em
+C#° | G | A7 D7
 ```
 
 ## C

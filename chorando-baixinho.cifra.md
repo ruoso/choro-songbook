@@ -29,6 +29,13 @@ Dm6/F | Am | B7 E7
 1. | Am :| 2. Am A7 |
 ```
 
+## C, short
+Key: D
+
+```
+Dm A7 |
+```
+
 ## C
 Key: D
 
@@ -38,11 +45,4 @@ Em F#7 | Bm | E7 | Gm6 A7
 D/F# A7/E | D F#7 | Bm F#7/C# | B7/D#
 Em F#7 | Bm | E7 A7
 Dm A7 :|
-```
-
-## C, short
-Key: D
-
-```
-Dm A7 |
 ```

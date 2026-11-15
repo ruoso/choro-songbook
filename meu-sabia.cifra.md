@@ -29,6 +29,13 @@ Bbm/Db | F/C D7 | G7 C7
 F :|
 ```
 
+## C, short
+Key: Bb
+
+```
+Bb |
+```
+
 ## C
 Key: Bb
 
@@ -38,11 +45,4 @@ D7/F# | Gm | A7 | Dm
 G7/B | C/Bb | F#° | G/F
 Eb Ebm/Gb | Bb/F Gm7 | Gb7 F7
 Bb :|
-```
-
-## C, short
-Key: Bb
-
-```
-Bb |
 ```

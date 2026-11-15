@@ -14,16 +14,16 @@ Form: Intro → A, short → A → B → A2
 |: C | % | G7 | % :|
 ```
 
+## A, short
+```
+C |
+```
+
 ## A
 ```
 |: C | Dm | G7 | C
 % | G7 | %
 1. | C :| 2. C7 | F | D7 | G7/B | % | C Am | D7 | G7 | % | C Am | D7 | G |
-```
-
-## A, short
-```
-C |
 ```
 
 ## B

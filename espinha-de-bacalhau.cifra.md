@@ -29,6 +29,13 @@ Dm Bm(b5) | Am | B7 E7
 1. | Am E7 :| 2. Am G7 |
 ```
 
+## C, short
+Key: F
+
+```
+F G7 |
+```
+
 ## C
 Key: F
 
@@ -38,13 +45,6 @@ Key: F
 % | % | Cm6/Eb D7 | Gm
 Bb B° | F/C D7 | Gm C7
 1. | F :| 2. F G7 |
-```
-
-## C, short
-Key: F
-
-```
-F G7 |
 ```
 
 ## Coda

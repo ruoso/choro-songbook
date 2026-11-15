@@ -9,6 +9,11 @@
 
 Form: Intro → A → B → A → C → A
 
+## Intro
+```
+C |
+```
+
 ## A
 ```
 |: G7 | C | G7 | C
@@ -16,11 +21,6 @@ G7 | C | D7 | C
 G7 | C | G7 | C
 G7 | C | G7
 1. | C :| 2. C C7/Bb |
-```
-
-## Intro
-```
-C |
 ```
 
 ## B

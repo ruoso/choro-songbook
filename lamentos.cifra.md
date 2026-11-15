@@ -40,14 +40,14 @@ Em/G | F° F#7
 1. | Bm | Bm Bm Bm F#7 :| 2. Bm C° | A7/C# |
 ```
 
+## Coda, short
+```
+D . . D7 |
+```
+
 ## Coda
 ```
 D . . D7 |
 G7 | F#7 C° | E7 | A7 | Am7 D7
 G7 | F#7 C° | E7 | A7 | D7M
-```
-
-## Coda, short
-```
-D . . D7 |
 ```

@@ -29,6 +29,13 @@ G/B Gm/Bb | D/A F° | Em A7
 D :|
 ```
 
+## C, short
+Key: C
+
+```
+C D7 |
+```
+
 ## C
 Key: C
 
@@ -38,11 +45,4 @@ C A7/C# | G7/D | Dm D#° | C/E
 C E7/B | Am A/G | D7/F# G/F | C/E A7
 Dm G7 | C | G7
 1. | C G7 :| 2. C D7 |
-```
-
-## C, short
-Key: C
-
-```
-C D7 |
 ```

@@ -9,6 +9,11 @@
 
 Form: Intro → A → B → A, short → C → D
 
+## Intro
+```
+A |
+```
+
 ## A
 ```
 Bm | E7 | A | A C°
@@ -22,11 +27,6 @@ Bm | E7 | A | %
 Bm | E7 | A | Em/G F#7
 Bm | Dm/F E7 | A | Em/G F#7
 Bm | Dm/F E7 | A
-```
-
-## Intro
-```
-A |
 ```
 
 ## B
