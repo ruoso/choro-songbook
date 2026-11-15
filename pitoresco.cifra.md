@@ -7,7 +7,7 @@
 - year: 1953
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → Link → C
+Form: Intro → A → B → To C → C
 
 ## Intro
 ```
@@ -36,7 +36,7 @@ Bbm6 | D7(9) | G7 C7 | F7 Eb7(9) | Dm . Bb7 A7
 1. | Dm A7 :| 2. Dm Db7 C7 Gb7 |
 ```
 
-## Link
+## To C
 ```
 F Eb6(9) | Ab7(9) Bb7 C7 . | Fm7 Ab7 | Eb7(9)
 ```

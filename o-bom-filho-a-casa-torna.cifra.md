@@ -22,8 +22,11 @@ Dm :|
 Key: F
 
 ```
-|: C7 C/Bb | F/A Ab° | Gm7 C7 | F D7 |
-Gm A7 | 1. Dm | G7 | C7(13) :| 2. Dm Gm/Bb | F/A C7 | F |
+|: C7 C/Bb | F/A Ab° | Gm7 C7 | F D7
+Gm A7 | Dm | G7 | C7(13)
+C7 C/Bb | F/A Ab° | Gm7 C7 | F D7
+Gm A7 | Dm Gm/Bb | F/A C7
+F :|
 ```
 
 ## To C
@@ -48,5 +51,6 @@ Em | A7 | D A7 | D
 
 ## Coda
 ```
-D | A7 |: D | A7 | D | A7 :|
+D | A7
+|: D | A7 | D | A7 :|
 ```

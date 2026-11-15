@@ -44,5 +44,5 @@ Bb | N.C. :|
 
 ## Coda
 ```
-F/A Ab° | Gm7 Gb7M | F7M |
+F/A Ab° | Gm7 Gb7M | F7M
 ```

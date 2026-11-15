@@ -11,7 +11,7 @@ Form: Intro → A → B → A → C → A → Coda
 
 ## Intro
 ```
-| N.C. |
+N.C. |
 ```
 
 ## A
@@ -47,5 +47,5 @@ C :|
 
 ## Coda
 ```
-G | N.C. | G |
+G | N.C. | G
 ```

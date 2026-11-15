@@ -7,7 +7,12 @@
 - year: 1893
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Fade-out → A → B → Link → C → D → Fade-out → A → Fade-out
+Form: Fade-out → A → B → To C → C → D → Fade-out → A → Fade-out
+
+## Fade-out
+```
+|: G | D7 | G | D7 :|
+```
 
 ## A
 ```
@@ -29,7 +34,7 @@ F#7 | Bm G | D A7
 1. | D :| 2. D D7 |
 ```
 
-## Link
+## To C
 ```
 G | D7
 Gm | D7
@@ -54,9 +59,4 @@ Bb | F7 | Bb | F7
 Bb | Dm | A7 | Dm F7
 Bb | F7 | Bb | F7
 D7 | Gm Eb | Bb F7 | Bb D7
-```
-
-## Fade-out
-```
-|: G | D7 | G | D7 :|
 ```

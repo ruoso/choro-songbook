@@ -7,7 +7,7 @@
 - year: 1952
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → Link → B → A → Coda
+Form: A → To B → B → A → Coda
 
 ## A
 ```
@@ -21,7 +21,7 @@ Gm/Bb | Gm Gm6 | Dm | Dm Bb7
 Eb7 | A7
 ```
 
-## Link
+## To B
 ```
 Dm | %
 ```

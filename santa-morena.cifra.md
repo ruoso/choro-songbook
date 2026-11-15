@@ -42,6 +42,7 @@ Gm/Bb | Em7(b5) | Dm/F | Dm
 
 ## Coda
 ```
-C7 | Bb7 | A7 | Dm
-C7 | Bb7 | A7 | Dm . A7 | Dm |
+Dm | C7 | Bb7 | A7
+Dm | C7 | Bb7 | A7
+Dm . A7 | Dm
 ```

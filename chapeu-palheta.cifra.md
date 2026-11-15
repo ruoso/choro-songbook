@@ -7,7 +7,7 @@
 - year: 1998
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, short → C → A → To Coda → Coda
+Form: A → B → A, short → To C → C → A → Coda
 
 ## A
 ```
@@ -37,6 +37,10 @@ Fm/Eb | Bb7 | Eb7M | %
 D7(4)(9) | G7M | D7(4)(9) | G7M
 Dm7 Db7(9)(#11) | C | % | Cm7
 F7 | G7M | Em7 | Am7 | D7(4)(9)
+```
+
+## To C
+```
 Dm7 | G7
 ```
 
@@ -47,11 +51,6 @@ Dm7 | G7 | C | %
 % | Gm7 Gb7(#11) | F | Fm Em
 Dm7 | G7
 1. | Db7(9) :| 2. Db7(9) | G7M G6 . . |
-```
-
-## To Coda
-```
-D7 |
 ```
 
 ## Coda

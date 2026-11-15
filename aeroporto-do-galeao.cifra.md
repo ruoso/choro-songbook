@@ -29,7 +29,10 @@ Key: Fm
 ```
 Fm Fm(7M) | Fm7 Fm6 | Bbm Bbm(7M) | Bb7 Bbm6
 Bbm Bb(7M) | Bbm7 C7 | Fm C7/G | Fm/Ab F7/A
-|: Bbm | Eb7 | Ab Abm | Db7 | 1. Gb7 | C7 | Fm C7/G | Fm/Ab F7/A :| 2. Gb7 | C7 | F | C7
+Bbm | Eb7 | Ab Abm | Db7
+Gb7 | C7 | Fm C7/G | Fm/Ab F7/A
+Bbm | Eb7 | Ab Abm | Db7
+Gb7 | C7 | F | C7
 ```
 
 ## Coda

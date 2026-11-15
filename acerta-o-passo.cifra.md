@@ -47,5 +47,5 @@ Bbm6 | F D7 | Gm C7
 
 ## Coda
 ```
-C Db | D Eb | E F | F# G7 | C |
+C Db | D Eb | E F | F# G7 | C
 ```

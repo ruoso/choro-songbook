@@ -7,7 +7,7 @@
 - year: 1926
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → Link → B → C → A → Coda
+Form: Intro → A → To B → B → C → A → To B
 
 ## Intro
 ```
@@ -21,7 +21,7 @@ Am6 | D7
 1. | G | % | F#7 | B7 | Em | A7 | D | A7 | D7 | Cm6 D7 . :| 2. Dm6/F | E7 | Am | E7/B | Am/C | C#° | G/D | D7 |
 ```
 
-## Link
+## To B
 ```
 G | G
 ```
@@ -48,9 +48,4 @@ Key: C
 Dm | A7/E | Dm/F | Dm/C
 E7/B | E7 | Am
 1. | Am/C | Em/B | B7 | Em | G7 :| 2. Bb | Am | G7 | C | % |
-```
-
-## Coda
-```
-G | G
 ```

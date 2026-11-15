@@ -47,5 +47,5 @@ Bb B° | F/C Dm7 | Gm7(b5) C7
 
 ## Coda
 ```
-% | F | Dm7 G7 | C6(9) |
+C | % | F | Dm7 G7 | C6(9)
 ```

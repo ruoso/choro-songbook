@@ -29,12 +29,14 @@ F7 | E7(b13) | Am E7(4) E7 | Am
 ## B
 ```
 Dm G7 | C | E7 | Am
-Dm . G7 | C | E7 | Am | Am
+Dm . G7 | C | E7 | Am
 // key: 4/4
+Am |
 ```
 
 ## Coda
+Key: 3/4
+
 ```
 A/G | Dm/F | E7 | Am | %
-// key: 3/4
 ```

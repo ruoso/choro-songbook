@@ -19,7 +19,8 @@ Am Cm6 | Bm7 Bm7(b5) E7 . | Am7 . D7 G | N.C.
 |: C#m7(b5) Cm6 | Bm7 Bb° | Am7 D7 | G7M
 C#m7(b5) Cm6 | Bm7 Bb° | B6(9) . C#m7 F#7 | B6(9)
 C#m7(b5) Cm6 | Bm7 Bb° | Am7 D7 | G#° E7
-Am7 Cm6 | Bm7 Bm7(b5) E7 . | Am7 D7 | G :|
+Am7 Cm6 | Bm7 Bm7(b5) E7 . | Am7 D7
+G :|
 ```
 
 ## B
@@ -29,7 +30,8 @@ Key: D
 |: A7 A/G | D/F# | A/G | D/F#
 A7 | D | A E7 | A
 A/G | D/F# | D/C | G/B
-G#m7(b5) C#7 | F#m7 B7 | Em7 A7 | D :|
+G#m7(b5) C#7 | F#m7 B7 | Em7 A7
+D :|
 ```
 
 ## C

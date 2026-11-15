@@ -39,5 +39,5 @@ G7 | Bbm6/Db C7
 
 ## Coda
 ```
-Dm(7M) |
+Dm | Dm(7M)
 ```

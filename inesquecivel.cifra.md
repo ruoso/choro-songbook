@@ -29,7 +29,8 @@ G A7 | D Bb7 | Eb6 A7
 ```
 
 ## Coda
+Key: D
+
 ```
-// key: D
-Bm | Gm6 A7 | D | Gm6 A7 | D6(9) |
+Bm | Gm6 A7 | D | Gm6 A7 | D6(9)
 ```

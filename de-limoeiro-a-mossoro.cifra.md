@@ -7,7 +7,7 @@
 - year: 1956
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → C → Fade-out
+Form: A → B → A, short → C → Fade-out
 
 ## A
 ```
@@ -40,6 +40,14 @@ G7 | % | C | C
 C7 | % | F7 | %
 G7 | % | C | C
 C7 | % | F7 | %
+G7 | % | C | C
+```
+
+## A, short
+```
+C7 | % | F | F7
+G7 | % | C | %
+C7 | % | F | F7
 G7 | % | C | C
 ```
 

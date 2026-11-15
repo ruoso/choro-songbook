@@ -7,7 +7,7 @@
 - year: 1955
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → A2
+Form: A → B → A → A2 → A2
 
 ## A
 ```

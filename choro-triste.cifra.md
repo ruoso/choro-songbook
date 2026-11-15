@@ -33,6 +33,6 @@ Cm7 Cm/Bb | Fm/Ab | G7(b9)/B | Cm/Bb | A7(b5)
 
 ## Coda
 ```
-Dm Gm/D | E/D A7(b13) | Dm Eb7M | Em7(9) Gm/F |
-G7M(9) Ab7M(9) Bb7M(9) . | Eb7M | % | Dm(7M) |
+E/D A7 | Dm Gm/D | E/D A7(b13) | Dm Eb7M
+Em7(9) Gm/F | G7M(9) Ab7M(9) Bb7M(9) . | Eb7M | % | Dm(7M)
 ```

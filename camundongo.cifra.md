@@ -44,5 +44,5 @@ F | C A7 | Dm7 G7 | C D7
 ## Coda
 ```
 D7 | D7 | D7 | D7
-D7 | D7 | D7 | G |
+D7 | D7 | D7 | G
 ```

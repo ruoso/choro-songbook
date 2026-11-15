@@ -7,7 +7,7 @@
 - year: 1962
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A → To C → C → A
+Form: Intro → A → B → A, short → C → A
 
 ## Intro
 ```
@@ -35,9 +35,10 @@ B7 | %
 1. | Em | B7 | Em | C#m7(b5) | Bm | Bm/A | G#° | G° | F#° | B7 :| 2. Em | E7 | Am | D7 | G | C7 | F | B7 | Em | % |
 ```
 
-## To C
+## A, short
 ```
-G |
+A7 | Ab7 | G | Em
+A7 | Ab7 | E7 | E7/G# | Am | G
 ```
 
 ## C

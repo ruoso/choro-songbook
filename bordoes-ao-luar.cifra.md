@@ -51,5 +51,5 @@ G7 | % | C/G | E7
 
 ## Coda
 ```
-Am Am6 |
+D#° E7 | Am Am6
 ```

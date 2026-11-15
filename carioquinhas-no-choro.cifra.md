@@ -34,5 +34,5 @@ G7 G#° | F/A D7 | G7 C7
 
 ## Coda
 ```
-E7 | Am | % |
+Dm | E7 | Am | %
 ```

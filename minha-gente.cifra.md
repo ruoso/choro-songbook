@@ -18,7 +18,7 @@ B7 | % | Em | G7
 C Em/B | Am Am/G | D7/F# | D7
 G7 | E7 | Am | Am Eb7
 Ab | Ab7 | C | A7
-D7 | G7 | C G7 | C |
+D7 | G7 | C G7 | C
 ```
 
 ## B

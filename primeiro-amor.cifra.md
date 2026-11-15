@@ -7,11 +7,11 @@
 - year: 1904
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A → C → A → Coda
+Form: Intro → A → B → A → C → A
 
 ## Intro
 ```
-| N.C. |
+N.C. |
 ```
 
 ## A
@@ -43,9 +43,4 @@ D7 | % | G | %
 % | % | Am | %
 D7 | % | G
 G :|
-```
-
-## Coda
-```
-D |
 ```

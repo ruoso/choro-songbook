@@ -39,7 +39,7 @@ Gm | Dm | E7 . A7 Dm | . Bbm/Db
 
 ## To C
 ```
-F | F7 |
+F | F7
 ```
 
 ## C

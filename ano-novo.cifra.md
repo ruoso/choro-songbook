@@ -33,7 +33,7 @@ A7 D7 | G7M C7M | Gm7 Gb7 | F7M
 
 ## To C
 ```
-Bb | Bb7 |
+Bb | Bb7
 ```
 
 ## C
@@ -49,5 +49,5 @@ C6(9) | C7(9)(#11) | F7M Em(add9)
 
 ## Coda
 ```
-Bb7M(9) | Cm7(b5) | Bb |
+Bb7M(9) | Cm7(b5) | Bb
 ```

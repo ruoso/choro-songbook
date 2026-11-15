@@ -11,22 +11,27 @@ Form: A → B → A → C
 
 ## A
 ```
-|: C | E7/B | Am | A/G
+C | E7/B | Am | A/G
 Dm/F | A7/E | Dm | Dm/F
-F#° | %
-1. | G7/D | G7 | G/F | G7
-C | N.C. :| 2. C | A7 | D7 | G7
-C | C
+F#° | % | G7/D | G7
+G/F | G7 | C | N.C.
+C | E7/B | Am | A/G
+Dm/F | A7/E | Dm | Dm/F
+F#° | % | C | A7
+D7 | G7 | C | C
 ```
 
 ## B
 Key: G
 
 ```
-|: G | D7/A | G/B | G6/D
+G | D7/A | G/B | G6/D
 Am | D7 | G | %
-1. | % | D7/A | G/B | G
-Bm/F# | F#7/C# | Bm | D7 :| 2. % | B7/F# | Em | C#°
+% | D7/A | G/B | G
+Bm/F# | F#7/C# | Bm | D7
+G | D7/A | G/B | G6/D
+Am | D7 | G | %
+% | B7/F# | Em | C#°
 G6/D | D7 | G | N.C.
 ```
 
@@ -34,9 +39,12 @@ G6/D | D7 | G | N.C.
 Key: F
 
 ```
-|: C7 | % | % | %
+C7 | % | % | %
 F | % | % | %
-1. | G7/D | G7 | C7 | %
-F | % | B° | F/C :| 2. Cm6/Eb | Gm/D | D/C | Gm/Bb
+G7/D | G7 | C7 | %
+F | % | B° | F/C
+C7 | % | % | %
+F | % | % | %
+Cm6/Eb | Gm/D | D/C | Gm/Bb
 B° | F/C | C7 | F | %
 ```

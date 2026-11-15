@@ -42,5 +42,5 @@ Eb | Gm/D | Bbm/Db C7
 
 ## Coda
 ```
-C Fm6 | C7M |
+C Fm6 | C7M
 ```

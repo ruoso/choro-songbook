@@ -7,11 +7,12 @@
 - year: 1930
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A → C → A
+Form: Intro → A → B → A → Intro, short → C → A → Coda
 
 ## Intro
 ```
-N.C. | A A7 | D D° | A7 | D
+N.C. |
+A A7 | D D° | A7 | D
 A A7 | D D° | A7
 D | A7 | D | A7
 ```
@@ -35,6 +36,11 @@ Gm Em7(b5) | Dm/F A7/E | Dm A7
 Dm :|
 ```
 
+## Intro, short
+```
+D |
+```
+
 ## C
 Key: Dm
 
@@ -43,4 +49,9 @@ Dm | A7 | % | Dm
 % | Am | Am E7 | Am
 Dm | Gm6 | A7 | D7
 Gm | Dm | A7 | Dm
+```
+
+## Coda
+```
+D |
 ```

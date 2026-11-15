@@ -7,11 +7,11 @@
 - year: 1980
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A → C → Coda
+Form: Intro → A → B → A → C → A, short → Coda
 
 ## Intro
 ```
-| N.C. |
+N.C. |
 ```
 
 ## A
@@ -43,10 +43,17 @@ Abm7 Db7 | Gb7M Gbm6 | Fm7 Bb7 Ebm7 Ab7
 1. | Db . Gbm7 Fm7 :| 2. Db . . C |
 ```
 
-## Coda
+## A, short
 ```
-// key: Db
-Db7M | F7/C F7 | Bbm7 Eb7 | Abm7 Db7
-Gbm7 Gbm6 | Fm7 Bbm7 | Eb7 Ab7 | D7 G7
-Eb7 Ab7 | Db |
+C7M | Bb7 | C7M | Gm7 C7
+F7M Fm6 | Em7 G#° | Am7 D7
+```
+
+## Coda
+Key: Db
+
+```
+G7 | Db7M | F7/C F7 | Bbm7 Eb7
+Abm7 Db7 | Gbm7 Gbm6 | Fm7 Bbm7 | Eb7 Ab7
+D7 G7 | Eb7 Ab7 | Db
 ```

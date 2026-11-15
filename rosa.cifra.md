@@ -43,6 +43,6 @@ Gm | A7(b9) | Dm A7 | Dm C7
 
 ## Coda
 ```
-F F7 | Bb | Bbm6 | F/A |
-D7(9) | Gm7 | C7 | F C7 | F |
+F F7 | Bb | Bbm6 | F/A
+D7(9) | Gm7 | C7 | F C7 | F
 ```

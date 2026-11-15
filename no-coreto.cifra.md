@@ -7,7 +7,7 @@
 - year: 1987
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A → Coda
+Form: Intro → A → B → A
 
 ## Intro
 ```
@@ -32,9 +32,4 @@ Bbm/Db | F/C | G7/B | C7
 D7/F# | Gm | E7 | Am
 Bbm6 | F/A D7 | Gm7 C7
 F :|
-```
-
-## Coda
-```
-C |
 ```

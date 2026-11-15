@@ -45,5 +45,6 @@ Dm D7/F# | C/G Am | D7 G7
 
 ## Coda
 ```
-G G7 |: C#m7(b5) Cm6 | G/B Bb° | Am Ab7 | G :|
+G G7 |
+|: C#m7(b5) Cm6 | G/B Bb° | Am Ab7 | G :|
 ```

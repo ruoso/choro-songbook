@@ -28,10 +28,16 @@ Key: F
 ```
 |: F | % | A7 | %
 Dm | % | Cm7 | F7
-Bb | Bbm6 | F | 1. Dm | G7 | % | C7 | Bbm6 C7 :| 2. A7 D7 | G7 | Bbm6 C7 | F | F |
+Bb | Bbm6 | F | Dm
+G7 | % | C7 | Bbm6 C7
+F | % | A7 | %
+Dm | % | Cm7 | F7
+Bb | Bbm6 | F | A7 D7
+G7 | Bbm6 C7 | F
+F :|
 ```
 
 ## Coda
 ```
-Bb7 | Gm6 | D | % |
+Bb7 | Gm6 | D | %
 ```

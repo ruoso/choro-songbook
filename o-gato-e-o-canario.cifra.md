@@ -53,5 +53,5 @@ Eb E° | Bb/F G7 | C7 F7
 
 ## Coda
 ```
-N.C. | % | C7 | F |
+F | N.C. | % | C7 | F
 ```

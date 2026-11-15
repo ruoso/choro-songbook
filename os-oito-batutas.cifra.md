@@ -7,7 +7,7 @@
 - year: 1919
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → To C → C → A → Coda
+Form: A → B → A → C, short → C → A
 
 ## A
 ```
@@ -29,11 +29,6 @@ G/B Gm/Bb | D/A F° | Em A7
 D :|
 ```
 
-## To C
-```
-C D7 |
-```
-
 ## C
 Key: C
 
@@ -45,7 +40,9 @@ Dm G7 | C | G7
 1. | C G7 :| 2. C D7 |
 ```
 
-## Coda
+## C, short
+Key: C
+
 ```
-G |
+C D7 |
 ```

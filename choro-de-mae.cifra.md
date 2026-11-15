@@ -7,14 +7,7 @@
 - year: 1977
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → A, short → B → A → Link → C → A → Coda
-
-## Intro
-Key: 3/2
-
-```
-Gm/Bb D7/A Gm | Gm
-```
+Form: Intro → A → To A → A, short → To B → B → A → To A → C → A → To A
 
 ## A
 ```
@@ -26,10 +19,27 @@ Am7(11) D7(b9) | Gm Gb° | Fm7 Bb7(b9) | Eb7M A7
 Dm7(b5) G7 | C7M Abm6 | C6(9) G#° | D7M/A | A7(4) A/G
 ```
 
-## A, short
+## Intro
+Key: 3/2
+
 ```
-// key: 3/2
-D | Gm/Bb D7/A Gm | Gm
+Gm/Bb D7/A Gm | Gm
+```
+
+## To A
+```
+D |
+```
+
+## A, short
+Key: 3/2
+
+```
+Gm/Bb D7/A Gm | Gm
+```
+
+## To B
+```
 Am7(11) D7(b9) | Gm Gb° | Fm7 Bb7(b9) | Eb7M A7
 Dm7(b5) G7 | Ebm/Gb F7
 ```
@@ -38,19 +48,16 @@ Dm7(b5) G7 | Ebm/Gb F7
 Key: Bbm
 
 ```
-|: Bbm | Gb7M/Bb | A°/Bb | F7/Bb Bbm/Ab
-B/F# | Fm7(b5) | Cm7(b5) | F7(4) F7 :|
+Bbm | Gb7M/Bb | A°/Bb | F7/Bb Bbm/Ab
+B/F# | Fm7(b5) | Cm7(b5) | F7(4) F7
+Bbm | Gb7M/Bb | A°/Bb | F7/Bb Bbm/Ab
+B/F# | Fm7(b5) | Cm7(b5) | F7(4) F7
 Bbm | Gb7M/Bb | A°/Bb | F7/Bb Bbm/Ab
 B/F# | Fm7(b5)
 // key: D
 Em7 A7 | D . . D/C
 // key: 3/2
 Gm/Bb D7/A Gm | Gm
-```
-
-## Link
-```
-D |
 ```
 
 ## C
@@ -67,9 +74,4 @@ C#m7(b5) | C7(4)(b9) C7 | F#m7(b5) | D7(4)(b9) D7
 G#m7(b5) | C#7(4)(b9) C#7 | F#7M | Am7 D7 :| F# F#/E Bm/D D/C
 // key: 3/2
 Gm/Bb D7/A Gm | Gm
-```
-
-## Coda
-```
-D |
 ```

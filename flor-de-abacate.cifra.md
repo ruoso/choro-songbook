@@ -7,18 +7,13 @@
 - year: 1914
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → To B → B → A → Link → C → A → Coda
+Form: A → B, short → B → A → To C → C → A → Coda
 
 ## A
 ```
 |: C Em/B | Am Am/G | D7/F# | D7
 Fm6 | G7 | C
 1. | C G7(#5) | C | % | G | % | D7/A | D7 | G7 | % :| 2. C7 | F | F F#° | C/G | A7 | Dm7 | G7 |
-```
-
-## To B
-```
-C | N.C. |
 ```
 
 ## B
@@ -30,7 +25,12 @@ Dm7 | G7
 1. | C | N.C. :| 2. C C/G | Gb° G/F |
 ```
 
-## Link
+## B, short
+```
+C | N.C.
+```
+
+## To C
 ```
 C7 | %
 ```

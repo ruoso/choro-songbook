@@ -25,11 +25,13 @@ Fm7(11) | Cm(7M) Cm/Bb | Ab7 G7(b13)
 
 ## B
 ```
-|: Bb6(9)/D | G6(9)/B | Am7 Ab7M | C7M(6)/G
-1. | F6(7M)(9) . F#6(7M)(9) G6(9)(7M) | Ab6(7M)(9) | Am7 Fm7 | Cm7(9) :| 2. Ebm6/Gb Abm7 | Cm7(9) Cm/Bb | Ab6(9)(7M) . Gm7 G7 | Ab7(9) |
+Bb6(9)/D | G6(9)/B | Am7 Ab7M | C7M(6)/G
+F6(7M)(9) . F#6(7M)(9) G6(9)(7M) | Ab6(7M)(9) | Am7 Fm7 | Cm7(9)
+Bb6(9)/D | G6(9)/B | Am7 Ab7M | C7M(6)/G
+Ebm6/Gb Abm7 | Cm7(9) Cm/Bb | Ab6(9)(7M) . Gm7 G7 | Ab7(9)
 ```
 
 ## Coda
 ```
-Cm7(9) | Bb6(9)/D Ab6(9)/C G6(9)/B Bbm6 | Ab7(9) Db7M(6) | Cm |
+Cm7(9) | Bb6(9)/D Ab6(9)/C G6(9)/B Bbm6 | Ab7(9) Db7M(6) | Cm
 ```

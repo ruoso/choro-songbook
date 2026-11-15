@@ -11,7 +11,7 @@ Form: Intro → A → B → A → To C → C → A → Coda
 
 ## Intro
 ```
-| N.C. |
+N.C. |
 ```
 
 ## A
@@ -52,5 +52,5 @@ Bb G7 | C7 F7
 
 ## Coda
 ```
-Gm | Cm | D7 | Gm |
+Gm | Gm | Cm | D7 | Gm
 ```

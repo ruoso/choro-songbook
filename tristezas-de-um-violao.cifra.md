@@ -35,5 +35,5 @@ D/F# | Am Ab7 | Db G7(13)
 
 ## Coda
 ```
-N.C. | Am6 |
+Am | N.C. | Am6
 ```

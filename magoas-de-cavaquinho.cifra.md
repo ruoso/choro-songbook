@@ -35,5 +35,5 @@ Ab | G D7
 
 ## Coda
 ```
-Gm Gm6 | Cm D7 Gm6 . |
+Gm Gm6 | Cm D7 Gm6 .
 ```

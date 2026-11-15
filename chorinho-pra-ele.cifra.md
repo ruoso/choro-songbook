@@ -41,5 +41,5 @@ F7M |
 
 ## Coda
 ```
-F7 Bb7 | Eb7 Ab7 | Db7 C7 | F7 F |
+F7 Bb7 | Eb7 Ab7 | Db7 C7 | F7 F
 ```

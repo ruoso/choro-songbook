@@ -7,7 +7,7 @@
 - year: 1916
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → C → Coda
+Form: A → B → A → C → A → Coda
 
 ## A
 ```

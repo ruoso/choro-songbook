@@ -38,5 +38,5 @@ Eb | A7 | Dm Gm6 | Dm A7
 
 ## Coda
 ```
-N.C. | Gm6/Bb | A7 | Bm |
+Dm | N.C. | Gm6/Bb | A7 | Bm
 ```

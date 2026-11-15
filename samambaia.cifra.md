@@ -29,7 +29,8 @@ B7(#9) | E7(#9)(#11)
 
 ## B
 ```
-N.C. | Ab/Gb | Ab7(4) Ab7 | Db/F | Db
+N.C. |
+Ab/Gb | Ab7(4) Ab7 | Db/F | Db
 B7(13) | B7(4)(13) B7(13) | E7M | C#m7
 D#m7(b5) | G#7 | C#m7 | Db7(4) Db7
 Bbm7 Ebm7 | Abm7 Db7 | Gb | C7(9)(#11)

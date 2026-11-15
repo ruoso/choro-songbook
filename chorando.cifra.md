@@ -7,11 +7,11 @@
 - year: 1951
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → Link → B → A → Coda
+Form: Intro → A → To B → B → A → Coda
 
 ## Intro
 ```
-| N.C. |
+N.C. |
 ```
 
 ## A
@@ -23,9 +23,9 @@ G° | Dm/F Bb7(9)
 1. | Am Am/G | F#° | Fm6 :| 2. Am Am/G | F#° E7/G# |
 ```
 
-## Link
+## To B
 ```
-| Am F#7 |
+Am F#7 |
 ```
 
 ## B
@@ -38,5 +38,5 @@ Key: C
 
 ## Coda
 ```
-| Am |
+Am |
 ```

@@ -47,5 +47,5 @@ Db/Cb | F Dm7 | Gm7 C7
 
 ## Coda
 ```
-C | Fm/Ab | C |
+C | Fm/Ab | C
 ```

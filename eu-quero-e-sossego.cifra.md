@@ -31,5 +31,5 @@ Cm6/Eb D7(b9) | Gm Em7(b5) | Dm/F . Em7(b5) A7
 
 ## Coda
 ```
-Em7(b5) | Gm6/Bb A7 | Dm(add9) |
+Dm | Em7(b5) | Gm6/Bb A7 | Dm(add9)
 ```

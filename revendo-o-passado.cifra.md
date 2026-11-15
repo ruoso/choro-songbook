@@ -43,5 +43,5 @@ D7(9) | G7 | C | D7
 
 ## Coda
 ```
-Cm6/Eb | G7M |
+G | Cm6/Eb | G7M
 ```

@@ -32,7 +32,7 @@ Eb | G | Am D7 | G Bm | Am D7
 
 ## To C
 ```
-G Eb7 | D7 |
+G Eb7 | D7
 ```
 
 ## C
@@ -48,5 +48,5 @@ Cm | Eb | Cm | %
 
 ## Coda
 ```
-G | % |
+G | %
 ```

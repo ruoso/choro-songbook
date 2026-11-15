@@ -7,7 +7,7 @@
 - year: 1981
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → Link → B → A
+Form: A → To B → B → A
 
 ## A
 ```
@@ -21,7 +21,7 @@ Cm7(9) | C#m7(b5) F#7(b13) | Dm6/F | E7(b9)
 A6(9) | Ab6(9) | G7M
 ```
 
-## Link
+## To B
 ```
 D7(b9) |
 ```

@@ -36,7 +36,7 @@ Eb . . Dm | . Dm . . | Cm7 F7
 
 ## To C
 ```
-Bb | D7 | G | G7 |
+Bb | D7 | G | G7
 ```
 
 ## C

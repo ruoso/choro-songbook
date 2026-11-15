@@ -38,5 +38,5 @@ Dm Dm/C | E7/B A7
 
 ## Coda
 ```
-F/C | Bbm/Db | F | C7 F |
+F/C | Bbm/Db | F | C7 F
 ```

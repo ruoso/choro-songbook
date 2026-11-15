@@ -7,7 +7,7 @@
 - year: 1955
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → C → A → Coda
+Form: A → B → A → C → A
 
 ## A
 ```
@@ -18,7 +18,8 @@ E/D | E7 | C° | A/C# E7
 A | A°(7M) | A | %
 A7 | % | D | %
 Dm | % | A | %
-E7 | % | A | A :|
+E7 | % | A
+A :|
 ```
 
 ## B
@@ -47,9 +48,4 @@ D | A7 | D | D F#7
 Bm | F#7 | Bm | Bm/A
 G | G#° | D/A | Bm7
 E7 | A7 | D | E7
-```
-
-## Coda
-```
-A |
 ```

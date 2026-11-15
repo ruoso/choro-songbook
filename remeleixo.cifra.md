@@ -27,8 +27,8 @@ F7 | Bb7 | Eb | A7 | D7
 D7 | G | %
 G | % | Bm Bm(#5) | Bm6
 G7 | % | C7 | %
-F7 | Bb7 | Eb | A7 | D7
-D7 | G | %
+F7 | Bb7 | Eb | A7 | D7 | D7
+G | %
 ```
 
 ## B
@@ -47,5 +47,5 @@ E7 | A7
 
 ## Coda
 ```
-. Ab6 G6 . | G6 |
+G | . Ab6 G6 . | G6
 ```

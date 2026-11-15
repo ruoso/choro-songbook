@@ -36,5 +36,5 @@ F7 | Bb | E7
 
 ## Coda
 ```
-Dm7 Db7(9) | C |
+C | Dm7 Db7(9) | C
 ```

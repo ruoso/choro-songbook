@@ -7,11 +7,12 @@
 - year: 1948
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → C → A → Coda
+Form: A → B → A → C → A
 
 ## A
 ```
-N.C. | D | Bm | Gm/Bb | Em7(b5)
+N.C. |
+D | Bm | Gm/Bb | Em7(b5)
 Gm6 | % | D | A7
 D | Bm | F#m | %
 C#7 | % | F#7 | B7
@@ -47,9 +48,4 @@ Am | % | B7 | %
 Em | % | A#° | C#°
 G | % | D7 | %
 1. | G | G#° | D7/A | G#° :| 2. G | G#7 | A7 |
-```
-
-## Coda
-```
-D |
 ```

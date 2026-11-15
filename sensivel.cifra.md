@@ -38,5 +38,5 @@ C7(9) | F7 | Bb | N.C.
 
 ## Coda
 ```
-Gm F Eb | Gm |
+Gm F Eb | Gm
 ```

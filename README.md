@@ -11,6 +11,11 @@ The corpus is licensed CC BY-NC-SA 4.0
 may be shared and adapted for non-commercial use, with attribution, under the
 same licence.
 
-Each song has its part sections (A, B, C, ...), a Form line with the order they
-are played in, and the corpus's local keys as Key notes. The original
-transcriptions write a diminished chord as `o`; here it is `°`.
+Each song has its part sections (A, B, C, ...), each written once, a Form line
+with the order they are played in, and the corpus's local keys as Key notes.
+When a part comes back, the Form names it again and the player plays it the
+way choro is played; what the corpus has of its own around a return is a
+section of its own: an Intro, a Break, the bars that lead into the next part
+(To C), or the end of the song (Coda). A return that plays only some of its
+part is written out as that part, short. The original transcriptions write a
+diminished chord as `o`; here it is `°`.

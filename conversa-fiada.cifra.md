@@ -7,7 +7,7 @@
 - year: 1998
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → C → Link → A → B → C → Coda
+Form: Intro → A → B → C → Intro → A → B → C → Coda
 
 ## Intro
 ```
@@ -39,14 +39,9 @@ D7(4)(9) . . D7/A | G#m7(b5) Gm6 | F#m7 Fm | Em7 A7
 Am7(11) . . Ab7(b5) | G7M Gm6 | D/F# Bb/F | Em7 . A7 D6
 ```
 
-## Link
-```
-N.C. |
-```
-
 ## Coda
 ```
-N.C. | E7 A7 | D7M B7 | Em7 . . . A7 . . D |
-D . D7/A . . G#m7(b5) . . | Gm6 . . F#m7 . . Fm7 . | Fm7 Em7 . . A7 . . Am7 | Am7 . Am7(11) . . Ab7M . . |
-G7M . . Gm6 . . D/F# . | D/F# . . Bb/F . . . Em7 | Em7 . . A7 . . . Bb7M | N.C. | Bb . B . C . C# D |
+N.C. | E7 A7 | D7M B7 | Em7 . . . A7 . . D
+D . D7/A . . G#m7(b5) . . | Gm6 . . F#m7 . . Fm7 . | Fm7 Em7 . . A7 . . Am7 | Am7 . Am7(11) . . Ab7M . .
+G7M . . Gm6 . . D/F# . | D/F# . . Bb/F . . . Em7 | Em7 . . A7 . . . Bb7M | N.C. | Bb . B . C . C# D
 ```

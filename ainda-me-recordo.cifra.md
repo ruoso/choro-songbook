@@ -7,7 +7,7 @@
 - year: 1932
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B again → B → C → A → Coda
+Form: Intro → A → To B → B → B → C → A → Coda
 
 ## Intro
 ```
@@ -26,11 +26,9 @@ Bb B° | F/C Ab° | Gm C7 | Am7(b5) D7
 Gm G#° | F/A D7 | Gm C7
 ```
 
-## B again
+## To B
 ```
 F D7 | Gm C7
-// key: Fm
-Fm Fm/Ab | Bbm/D C7
 ```
 
 ## B

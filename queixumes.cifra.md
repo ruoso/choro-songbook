@@ -42,7 +42,8 @@ F7 | E7 | Am D7 | G7
 ```
 
 ## Coda
+Key: 6/8
+
 ```
-// key: 6/8
-C C/Bb | F7 Bb7 | Eb A7 | D7 G7 | C |
+C C/Bb | F7 Bb7 | Eb A7 | D7 G7 | C
 ```

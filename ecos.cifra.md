@@ -40,5 +40,5 @@ F#m7(b5) | B7(b9) B7
 
 ## Coda
 ```
-Dm | Em7(b5) A7 | Dm | Dm A7 Dm . |
+Dm | Em7(b5) A7 | Dm | Dm A7 Dm .
 ```

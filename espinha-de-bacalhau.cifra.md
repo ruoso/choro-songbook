@@ -7,7 +7,7 @@
 - year: 1945
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → To C → C → A → Coda
+Form: A → B → A → C, short → C → A → Coda
 
 ## A
 ```
@@ -29,11 +29,6 @@ Dm Bm(b5) | Am | B7 E7
 1. | Am E7 :| 2. Am G7 |
 ```
 
-## To C
-```
-F G7 |
-```
-
 ## C
 Key: F
 
@@ -43,6 +38,13 @@ Key: F
 % | % | Cm6/Eb D7 | Gm
 Bb B° | F/C D7 | Gm C7
 1. | F :| 2. F G7 |
+```
+
+## C, short
+Key: F
+
+```
+F G7 |
 ```
 
 ## Coda

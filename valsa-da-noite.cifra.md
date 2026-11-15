@@ -34,5 +34,5 @@ Ab/C . D7 | G6 . G#° | Am7 . D7(b9)
 
 ## Coda
 ```
-Am7 Ab7 D7 | G6 | % |
+G6 | Am7 Ab7 D7 | G6 | %
 ```

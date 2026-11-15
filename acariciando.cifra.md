@@ -37,5 +37,5 @@ Cm6/Eb | D7 | Gm | Em7(b5)
 
 ## Coda
 ```
-Eb7(9) | Db7 | F |
+F | Eb7(9) | Db7 | F
 ```

@@ -7,7 +7,7 @@
 - year: 1921
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → Link → C → A → Coda
+Form: A → B → To C → C → A
 
 ## A
 ```
@@ -28,7 +28,7 @@ G7 | C/G | % | G7
 % | C/G | % | G7 F#7
 ```
 
-## Link
+## To C
 ```
 G7 |
 ```
@@ -41,9 +41,4 @@ Key: C
 G7 | C | % | Dm
 E7 | Am | F#° | C | G7
 1. | C | % | G7 :| 2. C | % |
-```
-
-## Coda
-```
-G |
 ```

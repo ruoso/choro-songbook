@@ -28,16 +28,12 @@ Key: Gm
 ```
 |: Gm Gm(7M) | Gm7 Gm6 | Cm Cm(7M) | Cm7 Cm6
 D7 | %
-1. | Gm | Gm D7 | Gm Gm(7M) . Gm7 |
-Gm6 . Gm(#5) Gm | A7 | % | Am7(b5) |
-D7 | Gm | Gm D7 :| 2. Fm7 |
-G7 | Cm | Am7(b5) | Gm |
-Gm/F | A7/E Cm6/Eb | D7 | Gm | D7 |
+1. | Gm | Gm D7 | Gm Gm(7M) . Gm7 | Gm6 . Gm(#5) Gm | A7 | % | Am7(b5) | D7 | Gm | Gm D7 :| 2. Fm7 | G7 | Cm | Am7(b5) | Gm | Gm/F | A7/E Cm6/Eb | D7 | Gm | D7 |
 ```
 
 ## Coda
 ```
-G | % | %
+G | % | % | %
 % | % | % | %
 % | % | %
 ```

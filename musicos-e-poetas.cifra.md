@@ -23,6 +23,7 @@ Em7 | A7 | Am7 | D7
 G | Bm7(b5) E7 | Am | C#m7(b5) F#7
 Bm | Am7 D7 | G | G7
 C/E | F/Eb | Bb/D | Eb/Db
+G Em7 | Am7 D7
 1. | G Em7 | Am7 D7 :| 2. Gm | N.C. |
 ```
 

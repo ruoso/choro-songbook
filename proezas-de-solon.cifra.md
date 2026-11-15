@@ -47,5 +47,5 @@ Ebm6/Gb | Bb G7 | C7 F7
 
 ## Coda
 ```
-F/Eb | Bb B° | A7 D7 | G7 C7 | F |
+F F/Eb | Bb B° | A7 D7 | G7 C7 | F
 ```

@@ -14,7 +14,8 @@ Form: A → B → C → A → Coda
 |: A/G | D/F# | F#7/E | C°
 B° | D | A Bb | C
 Gm7 C7 | F/A | Fm7 Bb7 | Eb
-A7 | Bb7/D Bb7 | Eb A7 | D :|
+A7 | Bb7/D Bb7 | Eb A7
+D :|
 ```
 
 ## B
@@ -22,7 +23,8 @@ A7 | Bb7/D Bb7 | Eb A7 | D :|
 |: F° E° | Eb° | D° Db° | C°
 G7M/B Gm6/Bb | D | F# C#7/E# | F# G7
 C | A7 | D D/C | G/B Bb°
-D/A Ab° | Em/G A7 | D :|
+D/A Ab° | Em/G A7
+D :|
 ```
 
 ## C

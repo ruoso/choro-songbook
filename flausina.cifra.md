@@ -7,7 +7,7 @@
 - year: 1910
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → Link → B → A → Link 2 → C → A → Coda
+Form: A → To B → B → A → To C → C → A → To B
 
 ## A
 ```
@@ -16,7 +16,7 @@ Bb B° | F/C
 1. | G7 | C7 :| 2. Gm7 C7 |
 ```
 
-## Link
+## To B
 ```
 F |
 ```
@@ -30,7 +30,7 @@ A7 | Dm
 1. | E7 Bb7 | A7 :| 2. Bb7 A7 | Dm C7 |
 ```
 
-## Link 2
+## To C
 ```
 F F7 |
 ```
@@ -41,9 +41,4 @@ Key: Bb
 ```
 |: Bb D7/A | Gm Gm/F | Eb G7/D | Cm | Eb E°
 1. | F7 | F/Eb | Bb/D :| 2. Bb G7 | C7 F7 | Bb C7 |
-```
-
-## Coda
-```
-F |
 ```

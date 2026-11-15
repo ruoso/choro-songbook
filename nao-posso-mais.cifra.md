@@ -47,5 +47,5 @@ G Gm6/Bb | D/A B7 | E7 A7
 
 ## Coda
 ```
-Dm A7 | Dm . |
+Dm A7 Dm . |
 ```

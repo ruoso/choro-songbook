@@ -32,5 +32,5 @@ Gm Fm | Eb | Bb7
 
 ## Coda
 ```
-Ab7 | Eb6(9) |
+Gm Fm | Eb | Ab7 | Eb6(9)
 ```

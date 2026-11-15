@@ -11,10 +11,14 @@ Form: A → B → A → To C → C → A → Coda
 
 ## A
 ```
-|: G/B Bb° | Am7 D7 | G/B Eb7/Bb | Am Am7
+G/B Bb° | Am7 D7 | G/B Eb7/Bb | Am Am7
 D7 | G | G7 | C
 Cm6 | G/B Gm/Bb | Am7 D7 | Bb° G . . | Am7 D7
-G E7 | A7 D7 | 1. G D7 :| 2. G B7 |
+G E7 | A7 D7 | G D7
+G/B Bb° | Am7 D7 | G/B Eb7/Bb | Am Am7
+D7 | G | G7 | C
+Cm6 | G/B Gm/Bb | Am7 D7 | Bb° G . . | Am7 D7
+G E7 | A7 D7 | G B7
 ```
 
 ## B
@@ -44,5 +48,5 @@ Dm7 Eb° | C/E Am7 | D7 G7
 
 ## Coda
 ```
-Am7 D7(9) | G |
+G E7 | Am7 D7(9) | G
 ```

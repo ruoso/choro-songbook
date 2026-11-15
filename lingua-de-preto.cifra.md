@@ -7,12 +7,7 @@
 - year: 1949
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A → To C → C → A → Coda
-
-## Intro
-```
-C |
-```
+Form: Intro → A → B → A → C → A
 
 ## A
 ```
@@ -23,16 +18,16 @@ G7 | C | G7
 1. | C :| 2. C C7/Bb |
 ```
 
+## Intro
+```
+C |
+```
+
 ## B
 ```
 |: F/A Fm6/Ab | C/G | G7 | C C/Bb
 F/A Fm6/Ab | C/G | G7
 1. | C C/Bb :| 2. C |
-```
-
-## To C
-```
-C |
 ```
 
 ## C
@@ -42,9 +37,4 @@ C |
 Dm/A Fm6/Ab | C/G | G7 | A7/C#
 Dm Fm6 | C A7 | Dm . G7 C
 1. | N.C. :| 2. C |
-```
-
-## Coda
-```
-C |
 ```

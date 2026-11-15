@@ -11,7 +11,7 @@ Form: A → B → A → Coda
 
 ## A
 ```
-|: G6 | % | Gm6 | %
+G6 | % | Gm6 | %
 G6 | G/B Bb° | Am7 | E7(b13)
 Am6 | E7 | Am6 | %
 Am7 | D7 | G6 | N.C.
@@ -19,7 +19,16 @@ G6 | Gm6 | G6 | %
 G7 | % | C | %
 % | D7 | G | E7
 Am7 | D7
-1. | G | D7 :| 2. G | G7 |
+G | D7
+G6 | % | Gm6 | %
+G6 | G/B Bb° | Am7 | E7(b13)
+Am6 | E7 | Am6 | %
+Am7 | D7 | G6 | N.C.
+G6 | Gm6 | G6 | %
+G7 | % | C | %
+% | D7 | G | E7
+Am7 | D7
+G | G7
 ```
 
 ## B
@@ -34,5 +43,5 @@ G | G7 | C | Am Am7
 
 ## Coda
 ```
-C | G7 |
+C | G7
 ```

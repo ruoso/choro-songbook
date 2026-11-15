@@ -34,5 +34,5 @@ Gm7 C7(13) | F7/A Bb7(13)
 
 ## Coda
 ```
-D Eb | E Eb | D7M |
+D Eb | E Eb | D7M
 ```

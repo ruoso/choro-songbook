@@ -17,7 +17,10 @@ N.C. | % | % | N.C. A7 . .
 ## A
 ```
 |: Dm/F A7/E | Dm A7/C# | Bb D7/A | Gm Gm/F
-A7 | Dm | E7 | A7 | 1. Dm A7 :| 2. Dm C7 |
+A7 | Dm | E7 | A7
+Dm/F A7/E | Dm A7/C# | Bb D7/A | Gm Gm/F
+A7 | Dm | E7 A7
+1. | Dm A7 :| 2. Dm C7 |
 ```
 
 ## B
@@ -47,5 +50,6 @@ Bb/Ab | Eb/G Ebm/Gb | Bb F7
 
 ## Coda
 ```
-Dm/F A7/E | Dm | Gm6 A7 | Dm | %
+Dm | Dm/F A7/E | Dm | Gm6 A7
+Dm | %
 ```

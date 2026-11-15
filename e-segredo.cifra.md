@@ -21,8 +21,10 @@ Cm | Am7(b5) | G | D D7 | G
 Key: Eb
 
 ```
+Eb | Fm F° | Bb7 Bb/Ab | Eb/G
+Eb Cm | Gm | D7 D/C | G/B
 |: Eb | Fm F° | Bb7 Bb/Ab | Eb/G
-Eb Cm | Gm | 1. D7 D/C | G/B :| 2. D7 D/C |
+Eb Cm | Gm | D7 D/C :|
 ```
 
 ## A2

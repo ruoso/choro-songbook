@@ -7,7 +7,7 @@
 - year: 1999
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → C → A → Coda
+Form: A → B → A → C → A
 
 ## A
 ```
@@ -34,9 +34,4 @@ Key: G#m
 G#m6 | C#7(9) | B6 | A7(#11)
 E7M(9)/G# G7M(#11) | Em6 | Em(7M)(9)/B | Bb°(11)(b13)
 G#m | Em/G | G#/F# | C/Bb
-```
-
-## Coda
-```
-Fm |
 ```

@@ -11,10 +11,11 @@ Form: A → B → A → B → Coda
 
 ## A
 ```
-|: Bbm6 Abm6 | Gm Gm(b6) Gm6 . | Cm7 F7(9) | Bb7M
-Bbm7 Eb7(9) | 1. Ab7M | A7 | Am7(b5) D7
+Bbm6 Abm6 | Gm Gm(b6) Gm6 . | Cm7 F7(9) | Bb7M
+Bbm7 Eb7(9) | Ab7M | A7 | Am7(b5) D7
+Bbm6 Abm6 | Gm Gm(b6) Gm6 . | Cm7 F7(9) | Bb7M | Bbm7 Eb7(9)
 // key: G
-:| 2. G7M . E7(4) E7 | Am7 Eb7(9) Am7 Ab7(#11) | G6
+G7M . E7(4) E7 | Am7 Eb7(9) Am7 Ab7(#11) | G6
 ```
 
 ## B

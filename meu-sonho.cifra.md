@@ -17,8 +17,10 @@ Em G/F | Bm/F# G7 | C7 | A7 Eb7(#9)
 
 ## A
 ```
-|: D | C#7 | C7 | F#°
-Gm Bbm6 | D Bm7 | 1. E7(9) | A7(13) :| 2. E7(9) A7(13) | D C7(9) |
+D | C#7 | C7 | F#°
+Gm Bbm6 | D Bm7 | E7(9) | A7(13)
+D | C#7 | C7 | F#°
+Gm Bbm6 | D Bm7 | E7(9) A7(13) | D C7(9)
 ```
 
 ## B

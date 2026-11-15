@@ -6,7 +6,7 @@
 - genre: Polca
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → C → Coda
+Form: A → B → A → C → A
 
 ## A
 ```
@@ -37,9 +37,4 @@ F Bm7(b5) | C | G7 | C7
 F | Gm | A7/C# | Dm
 Bb B° | F/C D7 | Gm C7
 F :|
-```
-
-## Coda
-```
-C |
 ```

@@ -26,8 +26,10 @@ G F#7(b13) | Bm Bm7 | E7(9) A7 | D D7
 Key: G
 
 ```
-|: G B7 | Em G7 | C7 | B7
-E7 | A7 | 1. % | D7 :| 2. D7 | G |
+G B7 | Em G7 | C7 | B7
+E7 | A7 | % | D7
+G B7 | Em G7 | C7 | B7
+E7 | A7 | D7 | G
 ```
 
 ## Coda

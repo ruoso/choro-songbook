@@ -7,7 +7,7 @@
 - year: 1950
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A → To C → C → A → Coda
+Form: A → B → A → To C → C → A
 
 ## A
 ```
@@ -43,9 +43,4 @@ Key: Bb
 Bb G7 | C7 | D7 | Gm
 E° | Bb G7 | C7 F7
 Bb :|
-```
-
-## Coda
-```
-F |
 ```

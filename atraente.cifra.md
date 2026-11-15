@@ -7,7 +7,7 @@
 - year: 1877
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → To C → C → A
+Form: Intro → A → B → A → To C → C → A
 
 ## Intro
 ```

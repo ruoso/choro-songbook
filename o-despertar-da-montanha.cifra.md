@@ -7,7 +7,7 @@
 - year: 1919
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → C → A → Coda
+Form: Intro → A → B → C → A, short → Coda
 
 ## Intro
 ```
@@ -41,9 +41,14 @@ D/F# | D | Am6/C B7/D# | Em
 Gm6 | D | E7 A7/C# | D
 ```
 
+## A, short
+```
+Dm/F . . F° | Em7(b5) | Dm/F . . F° | Em7(b5)
+Dm/F D7/A | Gm/Bb Em7(b5) | Dm/F | A7/C#
+```
+
 ## Coda
 ```
-Gm/Bb Em7(b5) | Dm/F | A7/C# | Dm
-A7 | Dm/F | A7 | Bb7/D
-Gm6/Bb Em7(b5) | Dm/F Gm6 | Dm |
+Dm | A7 | Dm/F | A7
+Bb7/D | Gm6/Bb Em7(b5) | Dm/F Gm6 | Dm
 ```

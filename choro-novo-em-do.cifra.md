@@ -33,5 +33,5 @@ Fm6 | G7 | Cm
 
 ## Coda
 ```
-C7M |
+C | N.C. | C7M
 ```

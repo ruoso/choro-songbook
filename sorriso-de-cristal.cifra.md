@@ -43,5 +43,5 @@ Bbm | F Dm7 | G7 C7 | F C7
 
 ## Coda
 ```
-Dm C#° | Dm C#° | Dm |
+Dm C#° | Dm C#° | Dm
 ```

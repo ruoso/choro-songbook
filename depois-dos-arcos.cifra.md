@@ -31,5 +31,5 @@ Em7(b5) Gm6/Bb | A7 A/G | D7/F# D7 | Ab7 G7
 
 ## Coda
 ```
-F7M Gb7M | F7M |
+F7M Gb7M | F7M
 ```

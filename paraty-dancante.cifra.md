@@ -11,7 +11,8 @@ Form: A → B → C → A → B → Coda
 
 ## A
 ```
-F | Gm7 C7 | F | Gm7 C7 | F
+F |
+Gm7 C7 | F | Gm7 C7 | F
 Gm7 C7 | F | Gm7 C7 | F
 ```
 
@@ -36,5 +37,5 @@ Em7(b5) | Dm | E7 A7
 
 ## Coda
 ```
-F | Bbm6 C7 | F |
+F | Bbm6 C7 | F
 ```

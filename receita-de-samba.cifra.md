@@ -44,7 +44,7 @@ F#7/C# | F7/C
 
 ## Coda
 ```
-E7 | % | Am | A#°
-G7 . Gb7 F7 | E7 | Am | D7
-G | %
+Am | D7 | E7 | %
+Am | A#° | G7 . Gb7 F7 | E7
+Am | D7 | G | %
 ```
