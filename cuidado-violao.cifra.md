@@ -7,7 +7,7 @@
 - year: 1952
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → Break → A → Coda
 
 ## A
 ```
@@ -26,11 +26,12 @@ Gm | G7 | Cm/Eb | Cm
 Gm | D7 | Gm :|
 ```
 
-## A, last time
+## Break
 ```
 N.C. | % | % | %
-Gm D7 | Gm G7 | Cm G7 | Cm
-Cm Am7(b5) | Gm Gm/F | A7/E | D7
-Cm G7 | Cm | Gm D7 | Gm D7
-Gm D7 | Gm | Gm Ab . D7 | Gm
+```
+
+## Coda
+```
+Gm |
 ```

@@ -7,7 +7,7 @@
 - year: 1931
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A again 2 → Fade-out
+Form: Intro → A → B → Intro → A → To C → C → Intro → A → Fade-out
 
 ## Intro
 ```
@@ -34,13 +34,9 @@ E7 | Am A#° | Em/B B7
 1. | Em B7 :| 2. Em Eb7 D7 . |
 ```
 
-## A again
+## To C
 ```
-G | D7 | G | D7
-G | D7 | G | D7
-B7 | Em7 | A7 | D7
-G | D7 | G | D7
-B7 | Em C | G D7 | G G7
+G G7 |
 ```
 
 ## C
@@ -52,15 +48,6 @@ A7 | Dm | D/C | G7/B
 C Am | Dm7 | G7 | . C B7 Bb7
 A7 | Dm7 | D7 G7
 1. | C :| 2. C D7 |
-```
-
-## A again 2
-```
-G | D7 | G | D7
-G | D7 | G | D7
-B7 | Em7 | A7 | D7
-G | D7 | G | D7
-B7 | Em C | G D7 | G
 ```
 
 ## Fade-out

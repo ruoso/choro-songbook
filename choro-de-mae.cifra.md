@@ -7,9 +7,9 @@
 - year: 1977
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A again → A → A again 2 → B → A → Link → C → A → Coda
+Form: Intro → A → A, short → B → A → Link → C → A → Coda
 
-## A again
+## Intro
 Key: 3/2
 
 ```
@@ -26,7 +26,7 @@ Am7(11) D7(b9) | Gm Gb° | Fm7 Bb7(b9) | Eb7M A7
 Dm7(b5) G7 | C7M Abm6 | C6(9) G#° | D7M/A | A7(4) A/G
 ```
 
-## A again 2
+## A, short
 ```
 // key: 3/2
 D | Gm/Bb D7/A Gm | Gm
