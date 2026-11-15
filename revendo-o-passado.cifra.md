@@ -1,0 +1,55 @@
+# Revendo o passado
+- artist: Freire Júnior
+- key: G
+- time: 3/4
+- notation: brazilian
+- genre: Valsa
+- year: 1933
+- source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
+
+Form: Intro → A → B → A, last time
+
+## Intro
+```
+N.C.
+```
+
+## A
+```
+G7M F#7 F7 | E7 | A7 | Am7
+C7M | D7 | Db° | G/F
+C | E7 | Am | F#7
+Bm | F#7 | Bm | D7
+C#m7(b5) | D/C | G7/B | C/Bb
+Am7(b5) | B7 | F7 | E7
+Am | Cm(7M) | G7 F#7 F7 | E7
+Am | D7
+G | %
+```
+
+## B
+Key: C
+
+```
+C | E7/B | Am | G7
+F | A7/E | Dm | A7/C#
+Dm | C7 | Bb | D7/A
+G | G7 | C | G7(#5)
+C | E7/B | Am | G7
+F | A7/E | Dm | %
+Fm/Ab | Dm7(b5) | C B7 Bb7 | A7
+D7(9) | G7 | C | D7
+```
+
+## A, last time
+```
+G7M F#7 F7 | E7 | A7 | Am7
+C7M | D7 | Db° | G/F
+C | E7 | Am | F#7
+Bm | F#7 | Bm | D7
+C#m7(b5) | D/C | G7/B | C/Bb
+Am7(b5) | B7 | F7 | E7
+Am | Cm(7M) | G7 F#7 F7 | E7
+Am | D7
+G | Cm6/Eb | G7M
+```

@@ -1,0 +1,58 @@
+# Rosa
+- artist: Pixinguinha
+- key: F
+- time: 3/4
+- notation: brazilian
+- genre: Valsa
+- year: 1917
+- source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
+
+Form: Intro → A → B → A, last time
+
+## Intro
+```
+Bb | Bbm6 | F/A | D7(9)
+Gm7 | C7 | F | C(#5)
+```
+
+## A
+```
+F | F . F/A | Gm | C7
+F | F/A | Gm | Gm7
+A7/C# | A7 | Dm | D7(9)
+Gm | G7 | Gm7 | C7
+F | F . F/A | Gm | C7
+Cm7 | F7 | Bb . F7 | Bb
+Bbm/Db | Gm7(b5) | F | D7
+Gm . Gm7 | C7(9) | F . C7
+F . A7
+```
+
+## B
+Key: Dm
+
+```
+Dm | Dm/C | Gm/Bb | Gm
+A7 | A/G | Dm/F | Dm
+D/C | D7 | Gm | Gm/F
+E7 | E7(b9) | A7 | %
+Dm | Dm/C | E7/B | Gm/Bb
+A7 | A/G | D7/F# | D7(b9)
+Gm | A7(b13) | Dm | %
+Gm | A7(b9) | Dm A7 | Dm C7
+```
+
+## A, last time
+```
+F | F . F/A | Gm | C7
+F | F/A | Gm | Gm7
+A7/C# | A7 | Dm | D7(9)
+Gm | G7 | Gm7 | C7
+F | F . F/A | Gm | C7
+Cm7 | F7 | Bb . F7 | Bb
+Bbm/Db | Gm7(b5) | F | D7
+Gm . Gm7 | C7(9) | F . C7
+F F7 | Bb | Bbm6 | F/A
+D7(9) | Gm7 | C7 | F C7
+F
+```
