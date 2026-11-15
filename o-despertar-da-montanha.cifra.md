@@ -7,7 +7,7 @@
 - year: 1919
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → C → A, last time
+Form: Intro → A → B → C → A → Coda
 
 ## Intro
 ```
@@ -20,8 +20,7 @@ Dm/F . . F° | Em7(b5) | Dm/F . . F° | Em7(b5)
 Dm/F D7/A | C/Bb . . E° | F/C | A7/E
 Bb7 | Bb/Ab | A7/E
 Dm/F . . F° | Em7(b5) | Dm/F . . F° | Em7(b5)
-Dm/F D7/A | Gm/Bb Em7(b5) | Dm/F | A7/C#
-Dm
+Dm/F D7/A | Gm/Bb Em7(b5) | Dm/F | A7/C# | Dm
 ```
 
 ## B
@@ -42,10 +41,9 @@ D/F# | D | Am6/C B7/D# | Em
 Gm6 | D | E7 A7/C# | D
 ```
 
-## A, last time
+## Coda
 ```
-Dm/F . . F° | Em7(b5) | Dm/F . . F° | Em7(b5)
-Dm/F D7/A | Gm/Bb Em7(b5) | Dm/F | A7/C#
-Dm | A7 | Dm/F | A7
-Bb7/D | Gm6/Bb Em7(b5) | Dm/F Gm6 | Dm
+Gm/Bb Em7(b5) | Dm/F | A7/C# | Dm
+A7 | Dm/F | A7 | Bb7/D
+Gm6/Bb Em7(b5) | Dm/F Gm6 | Dm |
 ```

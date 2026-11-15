@@ -7,7 +7,7 @@
 - year: 1955
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → C → A → Coda
 
 ## A
 ```
@@ -18,8 +18,7 @@ E/D | E7 | C° | A/C# E7
 A | A°(7M) | A | %
 A7 | % | D | %
 Dm | % | A | %
-E7 | % | A
-A :|
+E7 | % | A | A :|
 ```
 
 ## B
@@ -36,19 +35,6 @@ A7 | % | Dm | Bm7(b5)
 Am | E7 | Am | %
 ```
 
-## A again
-```
-A | A°(7M) | A | %
-% | A#° | E7/B | E7
-Bm | Bm6 | E7 | %
-E/D | E7 | C° | A/C# E7
-A | A°(7M) | A | %
-A7 | % | D | %
-Dm | % | A | %
-E7 | % | A
-A
-```
-
 ## C
 Key: D
 
@@ -63,15 +49,7 @@ G | G#° | D/A | Bm7
 E7 | A7 | D | E7
 ```
 
-## A, last time
+## Coda
 ```
-A | A°(7M) | A | %
-% | A#° | E7/B | E7
-Bm | Bm6 | E7 | %
-E/D | E7 | C° | A/C# E7
-A | A°(7M) | A | %
-A7 | % | D | %
-Dm | % | A | %
-E7 | % | A
-A
+A |
 ```

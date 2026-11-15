@@ -11,7 +11,7 @@ Form: Intro → A → B → C → A
 
 ## Intro
 ```
-N.C.
+N.C. |
 ```
 
 ## A

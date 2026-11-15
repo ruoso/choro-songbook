@@ -7,22 +7,14 @@
 - year: 1931
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → To C → C → A → Coda
 
 ## A
 ```
-G/B Bb° | Am7 D7 | G/B Eb7/Bb | Am Am7
+|: G/B Bb° | Am7 D7 | G/B Eb7/Bb | Am Am7
 D7 | G | G7 | C
-Cm6 | G/B Gm/Bb | Am7 D7 | Bb° G . .
-Am7 D7
-G E7 | A7 D7
-G D7
-G/B Bb° | Am7 D7 | G/B Eb7/Bb | Am Am7
-D7 | G | G7 | C
-Cm6 | G/B Gm/Bb | Am7 D7 | Bb° G . .
-Am7 D7
-G E7 | A7 D7
-G B7
+Cm6 | G/B Gm/Bb | Am7 D7 | Bb° G . . | Am7 D7
+G E7 | A7 D7 | 1. G D7 :| 2. G B7 |
 ```
 
 ## B
@@ -34,13 +26,9 @@ C C#° | G/D E7 | A7 D7
 1. | G B7 :| 2. G D7 |
 ```
 
-## A again
+## To C
 ```
-G/B Bb° | Am7 D7 | G/B Eb7/Bb | Am Am7
-D7 | G | G7 | C
-Cm6 | G/B Gm/Bb | Am7 D7 | Bb° G . .
-Am7 D7
-G G7
+G G7 |
 ```
 
 ## C
@@ -54,11 +42,7 @@ Dm7 Eb° | C/E Am7 | D7 G7
 1. | C G7 :| 2. C C#7 D7 . |
 ```
 
-## A, last time
+## Coda
 ```
-G/B Bb° | Am7 D7 | G/B Eb7/Bb | Am Am7
-D7 | G | G7 | C
-Cm6 | G/B Gm/Bb | Am7 D7 | Bb° G . .
-Am7 D7
-G E7 | Am7 D7(9) | G
+Am7 D7(9) | G |
 ```

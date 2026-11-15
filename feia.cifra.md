@@ -7,20 +7,18 @@
 - year: 1948
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → C → A → Coda
 
 ## A
 ```
-N.C.
-D | Bm | Gm/Bb | Em7(b5)
+N.C. | D | Bm | Gm/Bb | Em7(b5)
 Gm6 | % | D | A7
 D | Bm | F#m | %
 C#7 | % | F#7 | B7
 E7 | A7 | D7 | G7
 C7 | F7 | Bb | D7
 Gm | G#° | D/A | Bm7
-E7(9) | A7(13) | D
-D
+E7(9) | A7(13) | D | D
 ```
 
 ## B
@@ -37,19 +35,6 @@ D | F#7(b9) | Bm | C
 Bm | G#° . F#7 | Bm | %
 ```
 
-## A again
-```
-D | Bm | Gm/Bb | Em7(b5)
-Gm6 | % | D | A7
-D | Bm | F#m | %
-C#7 | % | F#7 | B7
-E7 | A7 | D7 | G7
-C7 | F7 | Bb | D7
-Gm | G#° | D/A | Bm7
-E7(9) | A7(13) | D
-D
-```
-
 ## C
 Key: G
 
@@ -64,15 +49,7 @@ G | % | D7 | %
 1. | G | G#° | D7/A | G#° :| 2. G | G#7 | A7 |
 ```
 
-## A, last time
+## Coda
 ```
-D | Bm | Gm/Bb | Em7(b5)
-Gm6 | % | D | A7
-D | Bm | F#m | %
-C#7 | % | F#7 | B7
-E7 | A7 | D7 | G7
-C7 | F7 | Bb | D7
-Gm | G#° | D/A | Bm7
-E7(9) | A7(13) | D
-D
+D |
 ```

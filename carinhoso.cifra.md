@@ -7,12 +7,11 @@
 - year: 1920
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A and B, last time
+Form: Intro → A → B → A → B → Coda
 
 ## Intro
 ```
-Db7 | F D7 | G7 C7 | F . Bbm/Db C7
-F
+Db7 | F D7 | G7 C7 | F . Bbm/Db C7 | F
 ```
 
 ## A
@@ -36,18 +35,8 @@ F D7 | Gm C7
 F . Bbm6/Db C7 | F
 ```
 
-## A and B, last time
+## Coda
 ```
-F F(#5) | F6 F(#5) | F F(#5) | F6 F7
-Am Am(#5) | Am6 Am(b6) | Am Am(#5) | Am6 A7
-Dm G7 | C7 F7 | Bb D7 | Gm
-G7 | Bbm6/Db C7 | F . Bbm6/Db C7 | F E7/G#
-Am | Dm E7 | Am | . . Am Ab7
-C/G Am | D7 G7 | . C . A7 | . Gm . C7
-F | % | E7 | %
-Gm | C7 | F | A7
-Dm/A A/G | Dm/F F/Eb | Bb/D D/C | Gm/Bb Bbm6
-F D7 | Gm C7
 F F7 | B° Bbm6 | F F7 | B° Bbm6
 F | %
 ```

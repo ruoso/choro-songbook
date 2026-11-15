@@ -13,8 +13,7 @@ Form: Intro → A → B → Link → C
 ```
 G7(9) | % | Gb7(9) | %
 F7(9) | % | C7(#5) | %
-F | F7(9) E7(9) Eb7(9) . | D7(9) | G7(9) Gb7(9)
-F
+F | F7(9) E7(9) Eb7(9) . | D7(9) | G7(9) Gb7(9) | F
 ```
 
 ## A
@@ -33,8 +32,7 @@ Key: Dm
 |: Dm | Bbm6 | Dm | Bbm6
 D7(9) | G7 C7 | F F7 | Bb7
 A7 | Dm | Bbm6 | Dm
-Bbm6 | D7(9) | G7 C7 | F7 Eb7(9)
-Dm . Bb7 A7
+Bbm6 | D7(9) | G7 C7 | F7 Eb7(9) | Dm . Bb7 A7
 1. | Dm A7 :| 2. Dm Db7 C7 Gb7 |
 ```
 

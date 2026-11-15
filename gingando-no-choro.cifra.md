@@ -7,29 +7,18 @@
 - year: 1998
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → A → Coda
 
 ## A
 ```
-G6 | % | A7 | %
+|: G6 | % | A7 | %
 D7 | D7/C | G | D(#5)
 G | % | Bm | %
 F#7 | % | Bm7 Bb° | Am7 Ab7(#11)
 G6 | % | A7 | %
 F#° | B7 | Em | G7/D
 C6(9) | Am7(b5) | G/B | E7
-A7 | D7(b9)
-G
-D7(b13)
-G6 | % | A7 | %
-D7 | D7/C | G | D(#5)
-G | % | Bm | %
-F#7 | % | Bm7 Bb° | Am7 Ab7(#11)
-G6 | % | A7 | %
-F#° | B7 | Em | G7/D
-C6(9) | Am7(b5) | G/B | E7
-A7 | D7(b9)
-|: G :|
+A7 | D7(b9) | 1. G | D7(b13) :| 2. G |
 ```
 
 ## B
@@ -47,15 +36,7 @@ F#7 | B7
 1. | Em | % :| 2. Em Eb7 | D7 D7(#5) |
 ```
 
-## A, last time
+## Coda
 ```
-G6 | % | A7 | %
-D7 | D7/C | G | D(#5)
-G | % | Bm | %
-F#7 | % | Bm7 Bb° | Am7 Ab7(#11)
-G6 | % | A7 | %
-F#° | B7 | Em | G7/D
-C6(9) | Am7(b5) | G/B | E7
-A7 | D7(b9)
-G . G7 C | . Cm | G6 Ab6 | G6
+G . G7 C | . Cm | G6 Ab6 | G6 |
 ```

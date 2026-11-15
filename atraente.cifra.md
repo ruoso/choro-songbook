@@ -7,7 +7,7 @@
 - year: 1877
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A
+Form: Intro → A → B → To C → C → A
 
 ## Intro
 ```
@@ -19,8 +19,7 @@ N.C. | % | % | %
 C7 | % | % | F
 % | C | Dm G7 | C
 C7 | N.C. | C7 | F F7
-Bb Bbm | F Dm7 | G7 C7 | F
-F
+Bb Bbm | F Dm7 | G7 C7 | F | F
 ```
 
 ## B
@@ -34,13 +33,9 @@ C | G7 | C7 | N.C.
 % | % | C7
 ```
 
-## A again
+## To C
 ```
-C7 | % | % | F
-% | C | Dm G7 | C
-C7 | N.C. | C7 | F F7
-Bb Bbm | F Dm7 | G7 C7 | F
-F7
+F7 |
 ```
 
 ## C

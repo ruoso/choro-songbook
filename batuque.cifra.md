@@ -22,8 +22,7 @@ Fm6 | N.C.
 C Em/B | Dm/A G7/B | C Em/B | Dm/A G7/B
 C Em/B Am Am/G | D7/F# | G/F | C/E
 Dm | E7/B | Am | B7/F#
-E7 A7 | D7/F# G7 :|
-C
+E7 A7 | D7/F# G7 :| C
 ```
 
 ## B
@@ -42,8 +41,7 @@ C Em/B | Dm/A G7/B | C Em/B | Dm/A G7/B
 C Em/B | Dm/A G7/B | C Em/B | Dm/A G7/B
 C Em/B Am Am/G | D7/F# | G/F | C/E
 Dm | E7/B | Am | B7/F#
-E7 A7 | D7/F# G7
-C
+E7 A7 | D7/F# G7 | C
 ```
 
 ## C
@@ -59,13 +57,11 @@ F F/Eb | Bb B° | F/C C7/E
 
 ## A, last time
 ```
-N.C. | % | % | %
-%
+N.C. | % | % | % | %
 C Em/B | Dm/A G7/B | C Em/B | Dm/A G7/B
 C Em/B | Dm/A G7/B | C Em/B | Dm/A G7/B
 C Em/B Am Am/G | D7/F# | G/F | C/E
 Dm | E7/B | Am | B7/F#
 E7 A7 | D7/F# G7
-C A7 | Dm A7 Dm E/G# | Am E7/B Am/C G7/D | C G7
-C
+C A7 | Dm A7 Dm E/G# | Am E7/B Am/C G7/D | C G7 | C
 ```

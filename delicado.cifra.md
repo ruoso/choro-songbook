@@ -7,25 +7,16 @@
 - year: 1950
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → A → Coda
 
 ## A
 ```
-G7 | % | % | %
+|: G7 | % | % | %
 A6 | % | E7 | %
 % | % | A | %
 C#7 | % | F#m | %
-F | % | Dm | %
-E7
-E7 | % | %
-G7 | % | % | %
-A6 | % | E7 | %
-% | % | A | %
-C#7 | % | F#m | %
-F | % | Dm | %
-E7
-E7
-A | E7
+F | % | Dm | % | E7
+1. | E7 | % | % :| 2. E7 | A | E7 |
 ```
 
 ## B
@@ -44,22 +35,7 @@ E7 | % | Am | %
 B7 | E7 | Am | %
 ```
 
-## A, last time
+## Coda
 ```
-G7 | % | % | %
-A6 | % | E7 | %
-% | % | A | %
-C#7 | % | F#m | %
-F | % | Dm | %
-E7
-E7 | % | %
-G7 | % | % | %
-A6 | % | E7 | %
-% | % | A | %
-C#7 | % | F#m | %
-F | % | Dm | %
-E7
-E7
-A | % | F7 | Dm
-E7 | % | A | %
+A | F7 | Dm | E7 | % | A | % |
 ```

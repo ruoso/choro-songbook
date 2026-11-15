@@ -29,6 +29,5 @@ F7(4) | % | G/B | Gm/Bb
 Am7 | D7 | G(add9) | C7M/G
 G(add9) | C7M/G | G(add9) | C7M/G
 G(add9) | C7M/G | G(add9) | C7M/G
-G(add9) | C7M/G | G7M(9) | D7(4)(9)
-G7M(9)
+G(add9) | C7M/G | G7M(9) | D7(4)(9) | G7M(9)
 ```

@@ -11,14 +11,13 @@ Form: A → Link → B → A → Link 2 → C → A → Coda
 
 ## A
 ```
-|: Dm | Dm/F | A7/E | %
-%
+|: Dm | Dm/F | A7/E | % | %
 1. | A7 | Dm | Dm A7 | Dm | Bm7(b5) | Am/C | Am | E7 | % | A7(b9) | A7 :| 2. A7(b9) | D7 | % | Gm | Em7(b5) | Dm | Dm/C | E7/B | A7 | Dm |
 ```
 
 ## Link
 ```
-Dm
+Dm |
 ```
 
 ## B
@@ -30,7 +29,7 @@ A7 | % | Cm6/Eb | D7
 
 ## Link 2
 ```
-Dm
+Dm |
 ```
 
 ## C
@@ -43,5 +42,5 @@ Key: D
 
 ## Coda
 ```
-Dm
+Dm |
 ```

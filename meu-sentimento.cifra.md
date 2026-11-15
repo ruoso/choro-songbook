@@ -17,7 +17,7 @@ Form: A → Link → B → A → Coda
 
 ## Link
 ```
-Am E7
+Am E7 |
 ```
 
 ## B
@@ -32,6 +32,5 @@ D7(9) G7 | C7(9) F7 | Bb7(9) E7 | A E7(b13)
 
 ## Coda
 ```
-Am Am6 | Dm6 | Am6 | Am7M(6)
-%
+Am Am6 | Dm6 | Am6 | Am7M(6) | %
 ```

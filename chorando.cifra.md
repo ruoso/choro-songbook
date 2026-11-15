@@ -11,7 +11,7 @@ Form: Intro → A → Link → B → A → Coda
 
 ## Intro
 ```
-N.C.
+| N.C. |
 ```
 
 ## A
@@ -25,19 +25,18 @@ G° | Dm/F Bb7(9)
 
 ## Link
 ```
-Am F#7
+| Am F#7 |
 ```
 
 ## B
 Key: C
 
 ```
-|: G7 | C7M(6) C7M | E7(b9) | G° A7
-F#m7(b5) Fm6
+|: G7 | C7M(6) C7M | E7(b9) | G° A7 | F#m7(b5) Fm6
 1. | C/E | D7/F# | G7(9) . . F#7 :| 2. C/E Eb° | Dm7 G7(13) | C |
 ```
 
 ## Coda
 ```
-Am
+| Am |
 ```

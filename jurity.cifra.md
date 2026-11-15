@@ -7,11 +7,11 @@
 - year: 1936
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A, last time
+Form: Intro → A → B → A → C → A → Coda
 
 ## Intro
 ```
-N.C.
+N.C. |
 ```
 
 ## A
@@ -36,17 +36,6 @@ Gm7 C7 | F D7 | Gm C7
 1. | F :| 2. F A7 |
 ```
 
-## A again
-```
-Dm | A7 | Dm | A7
-Dm | A7 | Dm | A7
-Dm Bb7 | A7 | Dm | A7
-Dm | A7 | Bb7 | A7
-D7 | Gm | C7 | F
-Gm | Dm | Em7(b5) A7
-Dm
-```
-
 ## C
 Key: D
 
@@ -58,13 +47,7 @@ Em Bb°(b13) | D/A Bm7 | Em7 A7
 1. | D :| 2. Dm |
 ```
 
-## A, last time
+## Coda
 ```
-Dm | A7 | Dm | A7
-Dm | A7 | Dm | A7
-Dm Bb7 | A7 | Dm | A7
-Dm | A7 | Bb7 | A7
-D7 | Gm | C7 | F
-Gm | Dm | Em7(b5) A7
-Dm
+Dm |
 ```

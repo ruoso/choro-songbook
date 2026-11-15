@@ -18,7 +18,7 @@ Bb B° | F/C
 
 ## Link
 ```
-F
+F |
 ```
 
 ## B
@@ -32,19 +32,18 @@ A7 | Dm
 
 ## Link 2
 ```
-F F7
+F F7 |
 ```
 
 ## C
 Key: Bb
 
 ```
-|: Bb D7/A | Gm Gm/F | Eb G7/D | Cm
-Eb E°
+|: Bb D7/A | Gm Gm/F | Eb G7/D | Cm | Eb E°
 1. | F7 | F/Eb | Bb/D :| 2. Bb G7 | C7 F7 | Bb C7 |
 ```
 
 ## Coda
 ```
-F
+F |
 ```

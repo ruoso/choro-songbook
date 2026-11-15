@@ -12,8 +12,7 @@ Form: A → Link → B → A → Link 2 → C → A → Coda
 ## A
 ```
 |: Fm | C7 | Fm | Ab7 G7 Gb7
-F7 | F7/A | Bbm | F7
-Bbm
+F7 | F7/A | Bbm | F7 | Bbm
 1. | Gm7(b5) | Fm/Ab | Fm | Gm7(b5) | Bbm6 | C7 | % :| 2. Gm7(b5) | Fm/Ab | Fm | Gm7(b5) | C7 |
 ```
 

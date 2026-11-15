@@ -7,7 +7,7 @@
 - year: 1977
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A → B again → C
+Form: Intro → A → B → A → B → To C → C
 
 ## Intro
 ```
@@ -34,13 +34,9 @@ Eb . . Dm | . Dm . . | Cm7 F7
 1. | Bb :| 2. Bb C7 |
 ```
 
-## B again
+## To C
 ```
-Cm7 F7 | Bb/D Gm7 | Cm7 F7 | Bb
-Cm7 F7 | Bb Gm7 | C7 | F
-Cm7 F7 | Bb/D Gm7 | Cm7 F7 | Abm6/C
-Eb . . Dm | . Dm . . | Cm7 F7
-Bb | D7 | G | G7
+Bb | D7 | G | G7 |
 ```
 
 ## C

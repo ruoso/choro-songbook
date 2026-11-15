@@ -31,7 +31,7 @@ Dm A7/C# | Cm6 B7 | Bb7M A7 | Dm7 G7
 // key: C
 C C7M | C7 C6(9)
 // key: 3/4
-Fm6/C C Cm(7M)(#11)
+Fm6/C C Cm(7M)(#11) |
 // key: 2/4
 Dm G7 | C7M | Gb7(#11)
 ```
@@ -42,6 +42,5 @@ Key: C
 ```
 F7M Fm6 | C/E Am(add9) | D7(9) G7(4)(13) | C Gb7(#11)
 F7M Fm6 | Em7 Am7 | D7(9) G7(4)(13) | C Gb7(#9)
-F7M F#° | C/G D7(9)(#11) | Dm7 . G7(4)(9) G7(9) | C
-%
+F7M F#° | C/G D7(9)(#11) | Dm7 . G7(4)(9) G7(9) | C | %
 ```

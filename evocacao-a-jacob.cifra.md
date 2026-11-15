@@ -7,15 +7,14 @@
 - year: 1969
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → A → Coda
 
 ## A
 ```
 Gm Gm/F | E7 A7 | Dm D/C | Gm/Bb
 C7(b9) C7 | F A7/C# | D/C G7/B | C/Bb F7/A
 Bb7 E7 | Gm Gm/F | E7 A7 | Cm/Eb D7
-Gm Em7(b5) | Dm Dm/C | Gm/Bb A7
-Dm
+Gm Em7(b5) | Dm Dm/C | Gm/Bb A7 | Dm
 ```
 
 ## B
@@ -29,11 +28,7 @@ Cm6/Eb D7 | Gm Bbm6 | F D7 Gm C7
 F D7/F# :|
 ```
 
-## A, last time
+## Coda
 ```
-Gm Gm/F | E7 A7 | Dm D/C | Gm/Bb
-C7(b9) C7 | F A7/C# | D/C G7/B | C/Bb F7/A
-Bb7 E7 | Gm Gm/F | E7 A7 | Cm/Eb D7
-Gm Em7(b5) | Dm Dm/C | Gm/Bb A7
-Dm Gm Dm6 .
+Dm Gm Dm6 . |
 ```

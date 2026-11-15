@@ -11,9 +11,7 @@ Form: Intro → A → B → A → C → A
 
 ## Intro
 ```
-N.C.
-A A7 | D D° | A7
-D
+N.C. | A A7 | D D° | A7 | D
 A A7 | D D° | A7
 D | A7 | D | A7
 ```
@@ -23,8 +21,7 @@ D | A7 | D | A7
 D D#° | Em7 A7 | D B7/D# | Em7 A7
 D D#° | A | E7 | A7
 D D#° | Em7 A7 | D B7/D# | Em7 A7
-D C° | G/B G | D A7
-D
+D C° | G/B G | D A7 | D
 ```
 
 ## B

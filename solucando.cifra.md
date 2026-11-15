@@ -7,7 +7,7 @@
 - year: 1915
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A, last time
+Form: Intro → A → B → A → To C → C → A → Coda
 
 ## Intro
 ```
@@ -38,17 +38,9 @@ B7 | E7 | Am
 Am :|
 ```
 
-## A again
+## To C
 ```
-C | % | % | %
-% | % | Dm7 | %
-E7 | % | Am | Am7 D7
-G | D7 | G | G7
-C | % | % | %
-C7 | % | F | Fm6
-F#° | % | C | Am
-Dm | Fm6 G7 | C . Ab7 G7
-C
+C |
 ```
 
 ## C
@@ -62,15 +54,7 @@ F/C D7 | G7 C7 | F
 F :|
 ```
 
-## A, last time
+## Coda
 ```
-C | % | % | %
-% | % | Dm7 | %
-E7 | % | Am | Am7 D7
-G | D7 | G | G7
-C | % | % | %
-C7 | % | F | Fm6
-F#° | % | C | Am
-Dm | Fm6 G7 | C . Ab7 G7
-C
+C |
 ```

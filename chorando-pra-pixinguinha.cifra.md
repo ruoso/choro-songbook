@@ -31,5 +31,5 @@ Gm6/Bb | A7 | C#°
 
 ## Coda
 ```
-Am Am(add9)
+Am Am(add9) |
 ```

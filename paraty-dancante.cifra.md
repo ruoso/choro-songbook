@@ -7,12 +7,11 @@
 - year: 1960
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → C → A and B, last time
+Form: A → B → C → A → B → Coda
 
 ## A
 ```
-F
-Gm7 C7 | F | Gm7 C7 | F
+F | Gm7 C7 | F | Gm7 C7 | F
 Gm7 C7 | F | Gm7 C7 | F
 ```
 
@@ -21,8 +20,7 @@ Gm7 C7 | F | Gm7 C7 | F
 F7 | Bb | Bbm6 | F
 Dm | Gm7 | C7 | F
 F7 | Bb | Bm6 | F
-Dm | Gm7 | C7
-F A7
+Dm | Gm7 | C7 | F A7
 ```
 
 ## C
@@ -36,13 +34,7 @@ Em7(b5) | Dm | E7 A7
 1. | Dm A7(b13) :| 2. Dm |
 ```
 
-## A and B, last time
+## Coda
 ```
-Gm7 C7 | F | Gm7 C7 | F
-Gm7 C7 | F | Gm7 C7 | F
-F7 | Bb | Bbm6 | F
-Dm | Gm7 | C7 | F
-F7 | Bb | Bm6 | F
-Dm | Gm7 | C7
-F | Bbm6 C7 | F
+F | Bbm6 C7 | F |
 ```

@@ -7,7 +7,7 @@
 - year: 1941
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → A → Coda
 
 ## A
 ```
@@ -31,10 +31,7 @@ A/C# | Am/C | E/B | Bb°
 E/B | % | B7 | Em
 ```
 
-## A, last time
+## Coda
 ```
-Em/G | C° . B7 | Em | %
-Am/C | E7/B | Am | %
-F#m7(b5) | Am6/E | Em | Em/D
-Am6/C | B7 | Em | %
+Em | % |
 ```

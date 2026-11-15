@@ -18,8 +18,7 @@ G6 | C7M(#11) | G6 | C7M(#11)
 ```
 G6 | C7M(#11) | G/B | A#°(b13)
 Am(7M) | Am7 . A#° | G° . G7M | D/F#
-G6 | C#° | Bm7(b5) . E/D | Am/C
-Ab/C . D7
+G6 | C#° | Bm7(b5) . E/D | Am/C | Ab/C . D7
 G6 | F#m7(b5) | B7
 ```
 
@@ -38,7 +37,6 @@ Ab/C . D7 | G6 . G#° | Am7 . D7(b9)
 G6 | C7M(#11) | G6 | C7M(#11)
 G6 | C7M(#11) | G/B | A#°(b13)
 Am(7M) | Am7 . A#° | G° . G7M | D/F#
-G6 | C#° | Bm7(b5) . E/D | Am/C
-Ab/C . D7
+G6 | C#° | Bm7(b5) . E/D | Am/C | Ab/C . D7
 G6 | Am7 Ab7 D7 | G6 | %
 ```

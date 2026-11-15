@@ -7,7 +7,7 @@
 - year: 1928
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A and Coda again → Coda
+Form: Intro → A → B → A → To Coda → Coda
 
 ## Intro
 ```
@@ -40,22 +40,14 @@ Em/G | F° F#7
 1. | Bm | Bm Bm Bm F#7 :| 2. Bm C° | A7/C# |
 ```
 
-## A and Coda again
+## To Coda
 ```
-D | % | D° | %
-D | % | Am6/C | B7
-Em | F#7 | Bm | C#7
-F# D#m7 | G#m7 C#7 | F#7 B7 | E7 A7
-D | D7 | G6 | C7(9)
-D B7 | E7 A7
-D . . D7
+D . . D7 |
 ```
 
 ## Coda
 ```
-D . . D7
-G7 | F#7 C° | E7 | A7
-Am7 D7
-G7 | F#7 C° | E7 | A7
-D7M
+D . . D7 | G7 | F#7 C° | E7 | A7
+Am7 D7 | G7 | F#7 C° | E7 | A7
+D7M |
 ```

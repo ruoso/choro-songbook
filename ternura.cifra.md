@@ -7,11 +7,11 @@
 - year: 1977
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A, last time
+Form: Intro → A → B → A → Coda
 
 ## Intro
 ```
-N.C.
+N.C. |
 ```
 
 ## A
@@ -20,16 +20,11 @@ Cm Cm(7M) | Cm7 Cm6 | Fm Fm7 | G7
 Cm | Ab7 | Dm7(b5) | G7
 Gm7(b5) | C7(b9) | Fm | Fm7
 Am7(b5) | D7(b9) | G7 G7(4)
-Cm Cm(7M) | Cm7 Cm6 | Fm Fm7 | G7
+|: Cm Cm(7M) | Cm7 Cm6 | Fm Fm7 | G7
 Cm | Ab7 | Dm7(b5) | G7
 Gm7(b5) | C7(b9) | Fm Fm7 | Fm6 G7
 Cm Cm/Bb | Ab7 G7(b13)
-Cm Fm6 | Cm G7(4)
-Cm Cm(7M) | Cm7 Cm6 | Fm Fm7 | G7
-Cm | Ab7 | Dm7(b5) | G7
-Gm7(b5) | C7(b9) | Fm Fm7 | Fm6 G7
-Cm Cm/Bb | Ab7 G7(b13)
-Cm Fm6 | Cm
+1. | Cm Fm6 | Cm G7(4) :| 2. Cm Fm6 | Cm |
 ```
 
 ## B
@@ -47,15 +42,7 @@ Fm7 | Abm6/Cb Bb7
 1. | Eb | % :| 2. Eb | G7 G7(4) |
 ```
 
-## A, last time
+## Coda
 ```
-Cm Cm(7M) | Cm7 Cm6 | Fm Fm7 | G7
-Cm | Ab7 | Dm7(b5) | G7
-Gm7(b5) | C7(b9) | Fm | Fm7
-Am7(b5) | D7(b9) | G7 G7(4)
-Cm Cm(7M) | Cm7 Cm6 | Fm Fm7 | G7
-Cm | Ab7 | Dm7(b5) | G7
-Gm7(b5) | C7(b9) | Fm Fm7 | Fm6 G7
-Cm Cm/Bb | Ab7 G7(b13)
-Cm Fm6 | Cm
+Cm |
 ```

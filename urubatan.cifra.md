@@ -7,15 +7,14 @@
 - year: 1919
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → C → A → Coda
 
 ## A
 ```
 |: E7 | Am | A7 | Dm
 % | Am | B7 | E7
 N.C. | % | E7 | Am
-A7 | Dm | Bb | Am
-B7 E7
+A7 | Dm | Bb | Am | B7 E7
 Am :|
 ```
 
@@ -30,16 +29,6 @@ F Dm7 | C Ab7 | Db G7
 C :|
 ```
 
-## A again
-```
-E7 | Am | A7 | Dm
-% | Am | B7 | E7
-N.C. | % | E7 | Am
-A7 | Dm | Bb | Am
-B7 E7
-Am
-```
-
 ## C
 Key: F
 
@@ -51,12 +40,7 @@ D7 | G7 | C7
 F :|
 ```
 
-## A, last time
+## Coda
 ```
-E7 | Am | A7 | Dm
-% | Am | B7 | E7
-N.C. | % | E7 | Am
-A7 | Dm | Bb | Am
-B7 E7
-Am
+Am |
 ```

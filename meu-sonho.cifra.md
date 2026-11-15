@@ -7,7 +7,7 @@
 - year: 1987
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A, last time
+Form: Intro → A → B → A → To C → C → A → Coda
 
 ## Intro
 ```
@@ -17,11 +17,8 @@ Em G/F | Bm/F# G7 | C7 | A7 Eb7(#9)
 
 ## A
 ```
-D | C#7 | C7 | F#°
-Gm Bbm6 | D Bm7 | E7(9) | A7(13)
-D | C#7 | C7 | F#°
-Gm Bbm6 | D Bm7 | E7(9) A7(13)
-D C7(9)
+|: D | C#7 | C7 | F#°
+Gm Bbm6 | D Bm7 | 1. E7(9) | A7(13) :| 2. E7(9) A7(13) | D C7(9) |
 ```
 
 ## B
@@ -35,13 +32,9 @@ Em F° | Bm/F# | G7 F#7
 1. | Bm :| 2. Bm A7 |
 ```
 
-## A again
+## To C
 ```
-D | C#7 | C7 | F#°
-Gm Bbm6 | D Bm7 | E7(9) | A7(13)
-D | C#7 | C7 | F#°
-Gm Bbm6 | D Bm7 | E7(9) A7(13)
-D
+D |
 ```
 
 ## C
@@ -55,11 +48,7 @@ Am/C Cm6 | G/D E7 | Am7 D7
 1. | G :| 2. G A7 |
 ```
 
-## A, last time
+## Coda
 ```
-D | C#7 | C7 | F#°
-Gm Bbm6 | D Bm7 | E7(9) | A7(13)
-D | C#7 | C7 | F#°
-Gm Bbm6 | D Bm7 | E7(9) A7(13)
-D C#6(9) D6(9) .
+D C#6(9) D6(9) . |
 ```

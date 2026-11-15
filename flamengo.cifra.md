@@ -40,8 +40,7 @@ G | D7 | G | D7
 G | D7 | G | D7
 B7 | Em7 | A7 | D7
 G | D7 | G | D7
-B7 | Em C | G D7
-G G7
+B7 | Em C | G D7 | G G7
 ```
 
 ## C
@@ -61,8 +60,7 @@ G | D7 | G | D7
 G | D7 | G | D7
 B7 | Em7 | A7 | D7
 G | D7 | G | D7
-B7 | Em C | G D7
-G
+B7 | Em C | G D7 | G
 ```
 
 ## Fade-out

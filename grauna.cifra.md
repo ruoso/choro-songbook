@@ -13,18 +13,16 @@ Form: A → Link → B → A → Link 2 → C → A → Coda
 ```
 Am | E7 | Am | E7
 Am | F#° F° | Am/E F7 | E7
-Am | E7 | Am | E7
-A7
+Am | E7 | Am | E7 | A7
 Dm | F7 | E7
 Am | F#° F° | Am/E F7 | E7
-Am | E7 | Am | E7
-A7
+Am | E7 | Am | E7 | A7
 Dm | Am/E E7
 ```
 
 ## Link
 ```
-Am
+Am |
 ```
 
 ## B
@@ -40,7 +38,7 @@ A° G#° | C/G A7
 
 ## Link 2
 ```
-Am
+Am |
 ```
 
 ## C

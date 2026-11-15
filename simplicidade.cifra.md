@@ -23,7 +23,7 @@ Em | E7 A7 | D
 
 ## Link
 ```
-D
+D |
 ```
 
 ## B
@@ -38,15 +38,14 @@ Em | C#m7(b5)
 
 ## Link 2
 ```
-D
+D |
 ```
 
 ## C
 Key: G
 
 ```
-|: D/A G#° | D7/A Bb° | G/B | G/B Bb°
-Am
+|: D/A G#° | D7/A Bb° | G/B | G/B Bb° | Am
 1. | D7 | G | % | D7/A G#° | D7/A Bb° | G/B | Em | Bm | C#7 F#7 | Bm Bbm | Am :| 2. D7 | Dm | G7 | C | Cm | G | E7 |
 ```
 

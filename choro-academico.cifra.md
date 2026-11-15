@@ -26,13 +26,11 @@ D | Em7 A7 | Bm7 E7 | A
 |: A7 E°/A | D | A7 | D7(4) D7
 G | Em7 | A7 | D
 D7 | A#° G/B | A7 | D
-D7 | A#° G/B | A7
-D :|
+D7 | A#° G/B | A7 | D :|
 ```
 
 ## C
 ```
 A7(4)(9) | Bb/A | A7 | D
-A7(4)(9) | Bb/A | A7 | D A7
-D
+A7(4)(9) | Bb/A | A7 | D A7 | D
 ```

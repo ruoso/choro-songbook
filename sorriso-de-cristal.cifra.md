@@ -7,15 +7,14 @@
 - year: 1954
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → To C → C → A → Coda
 
 ## A
 ```
 F | C7 E° | Dm | A7
 Am7(b5) D7 | Gm | Bm7(b5) E7 | Am C7
 F | C7 E° | Dm | A7
-Gm | Dm | Bb7 A7
-Dm A7
+Gm | Dm | Bb7 A7 | Dm A7
 ```
 
 ## B
@@ -29,13 +28,9 @@ Dm C#° | Dm A7/E | Dm/F G#° | A7
 Gm | Dm | Bb7 A7 | Dm Db7 C7 .
 ```
 
-## A again
+## To C
 ```
-F | C7 E° | Dm | A7
-Am7(b5) D7 | Gm | Bm7(b5) E7 | Am C7
-F | C7 E° | Dm | A7
-Gm | Dm | Bb7 A7
-Dm C7
+Dm C7 |
 ```
 
 ## C
@@ -46,11 +41,7 @@ Fm | C7 | Db | Fm
 Bbm | F Dm7 | G7 C7 | F C7
 ```
 
-## A, last time
+## Coda
 ```
-F | C7 E° | Dm | A7
-Am7(b5) D7 | Gm | Bm7(b5) E7 | Am C7
-F | C7 E° | Dm | A7
-Gm | Dm | Bb7 A7
-Dm C#° | Dm C#° | Dm
+Dm C#° | Dm C#° | Dm |
 ```

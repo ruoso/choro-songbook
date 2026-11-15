@@ -7,7 +7,7 @@
 - year: 1943
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → To C → C → A → Coda
 
 ## A
 ```
@@ -29,13 +29,9 @@ Am/C E7/B | Am | A7 | Dm
 1. | Am :| 2. Am G7 |
 ```
 
-## A again
+## To C
 ```
-C Dm | C/E G7/D | C Am | Dm A7(#5)
-Dm A7/E | Dm/F D7/F# | G7 | C G7
-C Dm | C/E G7/D | C Am | Dm A7
-Dm/A Fm/Ab | C/G Gb° | Dm/F G7
-C C7
+C C7 |
 ```
 
 ## C
@@ -49,12 +45,7 @@ Bb B° | F/C Dm7 | Gm7(b5) C7
 1. | F :| 2. F G7 |
 ```
 
-## A, last time
+## Coda
 ```
-C Dm | C/E G7/D | C Am | Dm A7(#5)
-Dm A7/E | Dm/F D7/F# | G7 | C G7
-C Dm | C/E G7/D | C Am | Dm A7
-Dm/A Fm/Ab | C/G Gb° | Dm/F G7
-C | % | F | Dm7 G7
-C6(9)
+% | F | Dm7 G7 | C6(9) |
 ```

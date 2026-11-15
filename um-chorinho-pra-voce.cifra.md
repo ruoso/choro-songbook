@@ -11,8 +11,7 @@ Form: Intro → A → B → Link → C → Coda
 
 ## Intro
 ```
-N.C. | % | % | %
-%
+N.C. | % | % | % | %
 Am Am/G | Dm6/F E7 | Am Am/G | Dm6/F E7
 ```
 
@@ -21,8 +20,7 @@ Am Am/G | Dm6/F E7 | Am Am/G | Dm6/F E7
 |: Am | B° | Am/C | D° G7
 C C#° | Dm | Am | F7
 E7 E7(b13) | Am | B° | Am/C
-D° G7 | C C#° | Dm Bm7(b5) | Am Am/G
-F7 E7
+D° G7 | C C#° | Dm Bm7(b5) | Am Am/G | F7 E7
 Am :|
 ```
 
@@ -37,8 +35,7 @@ Am :|
 
 ## Link
 ```
-Am Am/G | Dm6/F E7 | Am Am/G | Dm6/F E7
-Am C7(9)
+Am Am/G | Dm6/F E7 | Am Am/G | Dm6/F E7 | Am C7(9)
 ```
 
 ## C
@@ -55,6 +52,5 @@ Bb/D Bbm6/Db | F/C Dm7/A | G7 C7
 ## Coda
 ```
 Am Am/G | Dm6/F E7 | Am Am/G | Dm6/F E7
-Am | Am | Am7 | F7 E7
-Am
+Am | Am | Am7 | F7 E7 | Am
 ```

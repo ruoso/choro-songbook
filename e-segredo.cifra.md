@@ -14,19 +14,15 @@ Form: A → B → A2 → C → A2
 G7(b9) G/F | C/E | G7(b9) G7(9) | C
 Cm Am7(b5) | G | D D7 | G7
 G7(b9) G/F | C/F | G7(b9) G7(9) | C
-Cm | Am7(b5) | G | D D7
-G
+Cm | Am7(b5) | G | D D7 | G
 ```
 
 ## B
 Key: Eb
 
 ```
-Eb | Fm F° | Bb7 Bb/Ab | Eb/G
-Eb Cm | Gm | D7 D/C
-G/B
 |: Eb | Fm F° | Bb7 Bb/Ab | Eb/G
-Eb Cm | Gm | D7 D/C :|
+Eb Cm | Gm | 1. D7 D/C | G/B :| 2. D7 D/C |
 ```
 
 ## A2

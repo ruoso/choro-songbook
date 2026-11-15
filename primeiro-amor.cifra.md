@@ -7,11 +7,11 @@
 - year: 1904
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A, last time
+Form: Intro → A → B → A → C → A → Coda
 
 ## Intro
 ```
-N.C.
+| N.C. |
 ```
 
 ## A
@@ -34,15 +34,6 @@ F#7 | % | Bm
 Bm :|
 ```
 
-## A again
-```
-D | % | A7 | %
-% | % | D | %
-% | % | A7 | %
-% | % | D
-D
-```
-
 ## C
 Key: G
 
@@ -54,11 +45,7 @@ D7 | % | G
 G :|
 ```
 
-## A, last time
+## Coda
 ```
-D | % | A7 | %
-% | % | D | %
-% | % | A7 | %
-% | % | D
-D
+D |
 ```

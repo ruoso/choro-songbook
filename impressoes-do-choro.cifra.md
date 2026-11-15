@@ -14,8 +14,7 @@ Form: A → B → A → C → A
 Cm Cm/Bb | Gb7M G7(b13) | Abm6 Cm7M | Ab7(13) G7(b13)
 E7M D° | Cm/Eb B7M/F# | Abm6/F G/Ab | B7M . G7(9) G/F
 Cm Cm/Bb | Gb7M G7(b13) | Abm6 Cm(7M)/Eb | Ab7(13) G7(b13)
-E° E°7M | Fm/Ab Fb/Eb | Ab7M(#11) G7(b9)(b13)
-Dm7(b5) G7(b13) Cm .
+E° E°7M | Fm/Ab Fb/Eb | Ab7M(#11) G7(b9)(b13) | Dm7(b5) G7(b13) Cm .
 ```
 
 ## B

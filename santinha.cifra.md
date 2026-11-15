@@ -7,7 +7,7 @@
 - year: 1900
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → To C → C → A → Coda
 
 ## A
 ```
@@ -25,11 +25,9 @@ F Dm | Gm/Bb . Gm Gm6 | D/A A7
 D :|
 ```
 
-## A again
+## To C
 ```
-D7 D/C | G/B . G B7/D# | Em E7/G# Am . | Cm D7
-D7 D/C | Dm6/F E7 | Am Am7 Cm6 D7
-G G7
+G G7 |
 ```
 
 ## C
@@ -43,9 +41,7 @@ Am Am/G | F F#° | C/G Am7 Dm7 G7
 C G7 C . :|
 ```
 
-## A, last time
+## Coda
 ```
-D7 D/C | G/B . G B7/D# | Em E7/G# Am . | Cm D7
-D7 D/C | Dm6/F E7 | Am Am7 Cm6 D7
-G
+G |
 ```

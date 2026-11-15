@@ -7,11 +7,11 @@
 - year: 1944
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A, last time
+Form: Intro → A → B → A → To C → C → A → Coda
 
 ## Intro
 ```
-N.C.
+N.C. |
 ```
 
 ## A
@@ -23,8 +23,7 @@ E7 | % | A7 | N.C.
 Dm | % | E7 | E7 Gm6/Bb
 A7 | % | D7 | %
 Gm | Em7(b5) | Dm | %
-E7 | A7
-Dm
+E7 | A7 | Dm
 Dm :|
 ```
 
@@ -37,17 +36,9 @@ Em7(b5) | A7 | Dm
 Dm :|
 ```
 
-## A again
+## To C
 ```
-Dm | % | E7 | E7 Gm6/Bb
-A7 | % | Dm | E7 A7
-Dm | Bm7(b5) | Am | %
-E7 | % | A7 | N.C.
-Dm | % | E7 | E7 Gm6/Bb
-A7 | % | D7 | %
-Gm | Em7(b5) | Dm | %
-E7 | A7
-Dm | D A7
+D A7 |
 ```
 
 ## C
@@ -65,15 +56,7 @@ A7 | D
 1. | D A7 :| 2. D A7(b13) |
 ```
 
-## A, last time
+## Coda
 ```
-Dm | % | E7 | E7 Gm6/Bb
-A7 | % | Dm | E7 A7
-Dm | Bm7(b5) | Am | %
-E7 | % | A7 | N.C.
-Dm | % | E7 | E7 Gm6/Bb
-A7 | % | D7 | %
-Gm | Em7(b5) | Dm | %
-E7 | A7
-|: Dm :|
+Dm |
 ```

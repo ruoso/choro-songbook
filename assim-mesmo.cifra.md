@@ -7,11 +7,11 @@
 - year: 1935
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A, last time
+Form: Intro → A → B → A → To C → C → A → Coda
 
 ## Intro
 ```
-N.C.
+N.C. |
 ```
 
 ## A
@@ -36,17 +36,9 @@ Em7 | A7
 1. | D | C° :| 2. D | A7 |
 ```
 
-## A again
+## To C
 ```
-D | % | C#m7(b5) | F#7
-G | G7 | F#7 | %
-G | Gm6 | D F#m7/C# | Bm Bm7
-E7 | % | A7 | A7(b13)
-Dm Dm(#5) | Dm6 | A7/C# E/D | A7/E
-Bb | C7 | F | D7/F#
-G#° | Gm6 | D | Bm Bm7
-Em7 | A7
-D | A7(b13)
+A7(b13) |
 ```
 
 ## C
@@ -60,15 +52,7 @@ E7/B | A7
 D | A7 :|
 ```
 
-## A, last time
+## Coda
 ```
-D | % | C#m7(b5) | F#7
-G | G7 | F#7 | %
-G | Gm6 | D F#m7/C# | Bm Bm7
-E7 | % | A7 | A7(b13)
-Dm Dm(#5) | Dm6 | A7/C# E/D | A7/E
-Bb | C7 | F | D7/F#
-G#° | Gm6 | D | Bm Bm7
-Em7 | A7
-D | A7 D
+A7 D |
 ```

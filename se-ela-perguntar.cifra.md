@@ -18,8 +18,7 @@ Gm6 | F#7 | Am6/C | B7
 Em | Em/D | Am6 | Am
 B7 | Am6 | E7/G# | E7
 Am | F#m7(b5) | Em/G | Em
-F#7(b9) Am6/C | B7 | Em
-Em
+F#7(b9) Am6/C | B7 | Em | Em
 ```
 
 ## B

@@ -7,11 +7,11 @@
 - year: 1953
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A, last time
+Form: Intro → A → B → A → Coda
 
 ## Intro
 ```
-N.C.
+| N.C. |
 ```
 
 ## A
@@ -33,11 +33,7 @@ Gm | Dm | A7
 Dm :|
 ```
 
-## A, last time
+## Coda
 ```
-A7 | Dm | A7 | D7
-Gm | Dm | A7 | Dm
-A7 | Dm | A7 | D7
-Gm | Dm | A7
-Dm
+Dm |
 ```

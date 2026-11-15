@@ -7,7 +7,7 @@
 - year: 1952
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → To C → C → A → Coda
 
 ## A
 ```
@@ -17,8 +17,7 @@ F | Fm/Ab | C | %
 G7 | % | C7 | %
 F A7/E | Dm Dm/C | G7/B | G7
 C7 | % | F | F7
-Bb | B° | F/C | D7 Gm7
-C7
+Bb | B° | F/C | D7 Gm7 | C7
 F | A7
 ```
 
@@ -32,17 +31,9 @@ Dm | D7 | Gm | Em7(b5)
 Dm/F | E7 A7 | Dm Db7 | C7
 ```
 
-## A again
+## To C
 ```
-F A7/E | Dm Dm/C | G7/B | G7
-C7 | % | F | C7
-F | Fm/Ab | C | %
-G7 | % | C7 | %
-F A7/E | Dm Dm/C | G7/B | G7
-C7 | % | F | F7
-Bb | B° | F/C | D7 Gm7
-C7
-F | F7
+F7 |
 ```
 
 ## C
@@ -59,15 +50,7 @@ Cm | E° | Bb/F | G7
 Cm7 | F7 | Bb | C7
 ```
 
-## A, last time
+## Coda
 ```
-F A7/E | Dm Dm/C | G7/B | G7
-C7 | % | F | C7
-F | Fm/Ab | C | %
-G7 | % | C7 | %
-F A7/E | Dm Dm/C | G7/B | G7
-C7 | % | F | F7
-Bb | B° | F/C | D7 Gm7
-C7
-F | %
+F |
 ```

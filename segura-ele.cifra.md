@@ -7,11 +7,11 @@
 - year: 1930
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A, last time
+Form: Intro → A → B → A → To C → C → A → Coda
 
 ## Intro
 ```
-N.C.
+N.C. |
 ```
 
 ## A
@@ -34,13 +34,9 @@ Dm Bm7(b5) | Am Am/G | B7/F# E7
 1. | Am :| 2. Am G7 |
 ```
 
-## A again
+## To C
 ```
-C G7 | C | Am E7 | Am
-F F#° | C/G | G/D D/C | G7/B
-C Bb7 | A7 | Dm A7 | Dm
-F F#° | C/G A7 | D7 G7
-C C7
+C C7 |
 ```
 
 ## C
@@ -54,11 +50,7 @@ Bbm6 | F D7 | G7 C7
 1. | F :| 2. F G7 |
 ```
 
-## A, last time
+## Coda
 ```
-C G7 | C | Am E7 | Am
-F F#° | C/G | G/D D/C | G7/B
-C Bb7 | A7 | Dm A7 | Dm
-F F#° | C/G A7 | D7 G7
-C
+C |
 ```

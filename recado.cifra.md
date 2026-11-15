@@ -7,30 +7,18 @@
 - year: 1978
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → A → Coda
 
 ## A
 ```
-G | % | C#° | %
+|: G | % | C#° | %
 G | % | F7 | E7
 Cm6 | % | G | Em
 F#7 | % | B | D7
 G | % | C#° | %
 G | G7 | C | %
-Cm6 | % | Bm7(b5) | E7
-Am7
-D7 | G
-D7
-G | % | C#° | %
-G | % | F7 | E7
-Cm6 | % | G | Em
-F#7 | % | B | D7
-G | % | C#° | %
-G | G7 | C | %
-Cm6 | % | Bm7(b5) | E7
-Am7
-D7 | G
-G7
+Cm6 | % | Bm7(b5) | E7 | Am7
+D7 | G | 1. D7 :| 2. G7 |
 ```
 
 ## B
@@ -48,15 +36,7 @@ Dm7 | G7 | C
 1. | C G7 :| 2. D7 |
 ```
 
-## A, last time
+## Coda
 ```
-G | % | C#° | %
-G | % | F7 | E7
-Cm6 | % | G | Em
-F#7 | % | B | D7
-G | % | C#° | %
-G | G7 | C | %
-Cm6 | % | Bm7(b5) | E7
-Am7
-D7 | G | %
+G |
 ```

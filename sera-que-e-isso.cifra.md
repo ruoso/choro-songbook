@@ -18,14 +18,13 @@ Cm6 D7(b9) | Gm
 ```
 |: Cm G7 | C7 F7 | Bb7M A° | Gm D7
 Gm Em7(b5) | D/F# Bm7 | Em7 A7 | D7(b9) G7
-Cm G7 | C7 F7 | Bb7M A° | Gm G7
-Cm Am7(b5)
+Cm G7 | C7 F7 | Bb7M A° | Gm G7 | Cm Am7(b5)
 1. | Gm A7 | A7 Ab7 Gm D7(b9) | Gm Db7(9) :| 2. Gm Fm | Gm D7 |
 ```
 
 ## Link
 ```
-Gm
+Gm |
 ```
 
 ## B

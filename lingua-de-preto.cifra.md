@@ -7,11 +7,11 @@
 - year: 1949
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A again → A → B → A again 2 → C → A, last time
+Form: A again → A → B → A → To C → C → Coda
 
 ## A again
 ```
-C
+C |
 ```
 
 ## A
@@ -30,13 +30,9 @@ F/A Fm6/Ab | C/G | G7
 1. | C C/Bb :| 2. C |
 ```
 
-## A again 2
+## To C
 ```
-G7 | C | G7 | C
-G7 | C | D7 | C
-G7 | C | G7 | C
-G7 | C | G7
-C
+C |
 ```
 
 ## C
@@ -48,11 +44,7 @@ Dm Fm6 | C A7 | Dm . G7 C
 1. | N.C. :| 2. C |
 ```
 
-## A, last time
+## Coda
 ```
-G7 | C | G7 | C
-G7 | C | D7 | C
-G7 | C | G7 | C
-G7 | C | G7
-C
+C |
 ```

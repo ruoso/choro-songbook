@@ -20,8 +20,7 @@ Am Bm7(b5) | Am/C Dm | Am E7 | Am
 |: Am E7 | Am | A7 | Dm
 Bm7(b5) | Am/C | D#° | E7
 Am E7 | Am | A7 | Dm
-Bm7(b5) | Am/C
-D#° E7
+Bm7(b5) | Am/C | D#° E7
 Am :|
 ```
 
@@ -40,8 +39,7 @@ Key: C, 2/4
 ```
 |: G7 | % | C/G | %
 G7 | % | C/G | %
-A/G | % | Dm/G | %
-G7
+A/G | % | Dm/G | % | G7
 1. | G7 | % | C :| 2. G7 | Bb° | A7 |
 ```
 

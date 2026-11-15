@@ -7,7 +7,7 @@
 - year: 1902
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A
+Form: A → B → A → C → A
 
 ## A
 ```
@@ -23,13 +23,6 @@ Key: C
 |: G7 | C | E7/G# | Am
 Dm/F | C | G7
 1. | C :| 2. C G7 C E7 |
-```
-
-## A again
-```
-Am | Dm | E7 | Am
-Dm | Am/C | E7/B
-Am
 ```
 
 ## C

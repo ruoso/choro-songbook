@@ -22,8 +22,7 @@ D7 | Gm | A7 | Dm
 D7/F# | Gm | A7
 Dm | A7 | Dm | A7
 D7 | Gm | A7 | Dm
-D7/F# | Gm | A7
-Dm . . Db7
+D7/F# | Gm | A7 | Dm . . Db7
 ```
 
 ## B

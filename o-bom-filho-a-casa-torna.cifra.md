@@ -7,7 +7,7 @@
 - year: 1915
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → To C → C → A → Coda
 
 ## A
 ```
@@ -22,20 +22,13 @@ Dm :|
 Key: F
 
 ```
-|: C7 C/Bb | F/A Ab° | Gm7 C7 | F D7
-Gm A7 | Dm | G7 | C7(13)
-C7 C/Bb | F/A Ab° | Gm7 C7 | F D7
-Gm A7 | Dm Gm/Bb | F/A C7
-F :|
+|: C7 C/Bb | F/A Ab° | Gm7 C7 | F D7 |
+Gm A7 | 1. Dm | G7 | C7(13) :| 2. Dm Gm/Bb | F/A C7 | F |
 ```
 
-## A again
+## To C
 ```
-Dm | A7 | Dm | Em7(11) Eb7(#11)
-Dm D7 | Gm | E7 | A7
-Dm | A7 | Dm | A7
-D7 | Gm | Dm A7
-D
+D |
 ```
 
 ## C
@@ -53,12 +46,7 @@ G | G Gm6 | D | B7
 Em | A7 | D A7 | D
 ```
 
-## A, last time
+## Coda
 ```
-Dm | A7 | Dm | Em7(11) Eb7(#11)
-Dm D7 | Gm | E7 | A7
-Dm | A7 | Dm | A7
-D7 | Gm | Dm A7
-D | A7
-|: D | A7 | D | A7 :|
+D | A7 |: D | A7 | D | A7 :|
 ```

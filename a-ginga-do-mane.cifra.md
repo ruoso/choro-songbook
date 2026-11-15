@@ -6,7 +6,7 @@
 - genre: Choro
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A again → C → A, last time
+Form: Intro → A → B → A → C → A → Coda
 
 ## Intro
 ```
@@ -33,15 +33,6 @@ B° | N.C. | C7
 F :|
 ```
 
-## A again
-```
-Gm6 A7 | Dm | A7 | Dm
-Gm6 A7 | Dm Bm7(b5) | Am E7 | A7
-Gm6 A7 | Dm | A7 | Dm D7
-Gm Em7(b5) | Dm | E7 A7
-Dm
-```
-
 ## C
 Key: D
 
@@ -53,11 +44,7 @@ G7/B C7/Bb | F7/A Bb7/Ab | Eb/G A7
 D :|
 ```
 
-## A, last time
+## Coda
 ```
-Gm6 A7 | Dm | A7 | Dm
-Gm6 A7 | Dm Bm7(b5) | Am E7 | A7
-Gm6 A7 | Dm | A7 | Dm D7
-Gm Em7(b5) | Dm | E7 A7
-Dm
+Dm |
 ```

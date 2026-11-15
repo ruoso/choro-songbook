@@ -7,11 +7,11 @@
 - year: 1951
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → A → Coda
 
 ## A
 ```
-G6 | % | Gm6 | %
+|: G6 | % | Gm6 | %
 G6 | G/B Bb° | Am7 | E7(b13)
 Am6 | E7 | Am6 | %
 Am7 | D7 | G6 | N.C.
@@ -19,16 +19,7 @@ G6 | Gm6 | G6 | %
 G7 | % | C | %
 % | D7 | G | E7
 Am7 | D7
-G | D7
-G6 | % | Gm6 | %
-G6 | G/B Bb° | Am7 | E7(b13)
-Am6 | E7 | Am6 | %
-Am7 | D7 | G6 | N.C.
-G6 | Gm6 | G6 | %
-G7 | % | C | %
-% | D7 | G | E7
-Am7 | D7
-G | G7
+1. | G | D7 :| 2. G | G7 |
 ```
 
 ## B
@@ -41,15 +32,7 @@ G | G7 | C | Am Am7
 1. | D7 | % | Dm7 | G7 :| 2. D7 | G7 | C C#7 | D7 |
 ```
 
-## A, last time
+## Coda
 ```
-G6 | % | Gm6 | %
-G6 | G/B Bb° | Am7 | E7(b13)
-Am6 | E7 | Am6 | %
-Am7 | D7 | G6 | N.C.
-G6 | Gm6 | G6 | %
-G7 | % | C | %
-% | D7 | G | E7
-Am7 | D7
-C | G7
+C | G7 |
 ```

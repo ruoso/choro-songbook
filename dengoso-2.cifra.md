@@ -7,11 +7,11 @@
 - year: 1976
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → A, last time
+Form: Intro → A → B → A → Coda
 
 ## Intro
 ```
-N.C.
+N.C. |
 ```
 
 ## A
@@ -34,11 +34,7 @@ F7 | Bb | E7
 1. | Am E7 :| 2. Am |
 ```
 
-## A, last time
+## Coda
 ```
-G7 | C | E7 | Am
-F#° | C | G7/D G7 | C
-G7 | C | E7 | Am
-F#° | C Am | Dm7 G7
-C | Dm7 Db7(9) | C
+Dm7 Db7(9) | C |
 ```

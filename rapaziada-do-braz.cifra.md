@@ -18,8 +18,7 @@ Dm | % | A7 | %
 Dm | A7/E | Dm | A7
 Dm | D/C | Gm/Bb | Gm
 Em7(b5) | A7 | Dm | Dm/F
-A7/E | A7 | Dm
-Dm
+A7/E | A7 | Dm | Dm
 ```
 
 ## B

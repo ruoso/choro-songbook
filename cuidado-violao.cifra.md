@@ -14,8 +14,7 @@ Form: A → B → A, last time
 |: Gm D7 | Gm G7 | Cm G7 | Cm
 Cm Am7(b5) | Gm Gm/F | A7/E | D7
 Cm G7 | Cm | Gm D7 | Gm D7
-Gm D7 | Gm | Gm Ab . D7
-Gm :|
+Gm D7 | Gm | Gm Ab . D7 | Gm :|
 ```
 
 ## B
@@ -24,8 +23,7 @@ Gm :|
 Gm | G7 | Cm/Eb | Cm
 % | Eb7 | D7 | %
 Gm | G7 | Cm/Eb | Cm
-Gm | D7
-Gm :|
+Gm | D7 | Gm :|
 ```
 
 ## A, last time
@@ -34,6 +32,5 @@ N.C. | % | % | %
 Gm D7 | Gm G7 | Cm G7 | Cm
 Cm Am7(b5) | Gm Gm/F | A7/E | D7
 Cm G7 | Cm | Gm D7 | Gm D7
-Gm D7 | Gm | Gm Ab . D7
-Gm
+Gm D7 | Gm | Gm Ab . D7 | Gm
 ```

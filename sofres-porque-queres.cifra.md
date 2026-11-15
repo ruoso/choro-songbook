@@ -7,7 +7,7 @@
 - year: 1917
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: Intro → A → B → C → A, last time
+Form: Intro → A → B → C → A → Coda
 
 ## Intro
 ```
@@ -21,8 +21,7 @@ Fm6/Ab | Fm6 | C/E | N.C.
 C/Bb | C7 | F | %
 A7/C# | % | E° | Dm
 Fm6/Ab | % | C | A7
-D7 | G7 | C
-C C#7 D7 .
+D7 | G7 | C | C C#7 D7 .
 ```
 
 ## B
@@ -53,13 +52,7 @@ Bb | B° | F/C | D7/F#
 G7 | C7/E | F | N.C.
 ```
 
-## A, last time
+## Coda
 ```
-C/Bb | C7 | B° | F
-Fm6/Ab | Fm6 | C/E | N.C.
-C/Bb | C7 | F | %
-A7/C# | % | E° | Dm
-Fm6/Ab | % | C | A7
-D7 | G7 | C
-C
+C |
 ```

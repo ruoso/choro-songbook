@@ -7,7 +7,7 @@
 - year: 1938
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → A → Coda
 
 ## A
 ```
@@ -36,15 +36,7 @@ Ebm6/Gb | % | Bb | G7
 C7(9) | F7 | Bb | N.C.
 ```
 
-## A, last time
+## Coda
 ```
-Gm | Cm6 | Gm/Bb | Cm6
-Bb | F7 | Bb | D7
-Gm | G/F | C7/E | C7
-F7 | % | Bb | Cm Gm D7
-Gm | Cm6 | Gm/Bb | Cm6
-Bb | F7 | Bb | %
-Ab | Ab/Gb | Gm | Gm/F
-Eb7 | D7
-Gm F Eb | Gm
+Gm F Eb | Gm |
 ```

@@ -13,20 +13,16 @@ Form: Intro → A → B → A → Link → C → A
 Key: 3/4
 
 ```
-Em
+Em |
 ```
 
 ## A
 ```
-F#7 B7 | Em | B7 | Em
+|: F#7 B7 | Em | B7 | Em
 F#7/C# B7/D# | E7 | A7 | %
-D7 | G7 | C7 | F7
-Bb7 | Am | F#7 | B7
-F#7 B7 | Em | B7 | Em
-F#7/C# B7/D# | E7 | A7 | %
-D7 G7 | C7 F7 | Bb7 | Bb°
-C/Bb | Em | F#7 B7
-Em
+1. | D7 | G7 | C7 | F7
+Bb7 | Am | F#7 | B7 :| 2. D7 G7 | C7 F7 | Bb7 | Bb° |
+C/Bb | Em | F#7 B7 | Em |
 ```
 
 ## B
@@ -40,15 +36,13 @@ Dm/F D7/F# | C/G
 
 ## Link
 ```
-Em B7
+Em B7 |
 ```
 
 ## C
 Key: E
 
 ```
-E G° | B7/F# | C#m/E A7 | G#7
-% | C#m | F#7 | B7
-E G° | B7/F# | C#m/E A7 | G#7
-A/C# Am/C | E/B C#7 | F#7 B7 | E
+|: E G° | B7/F# | C#m/E A7 | G#7
+1. | % | C#m | F#7 | B7 :| 2. A/C# Am/C | E/B C#7 | F#7 B7 | E |
 ```

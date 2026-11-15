@@ -7,7 +7,7 @@
 - year: 1995
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → Fade-out
+Form: A → B → A → To Fade-out → Fade-out
 
 ## A
 ```
@@ -28,13 +28,9 @@ Gm6/Bb | A7 | Dm | %
 1. | B7 | % | F7 | E7 :| 2. B7 | E7 | Am Ab7 | G7 |
 ```
 
-## A again
+## To Fade-out
 ```
-C | % | B7 | %
-Bb6 | % | A7 | %
-Dm | G7 | C | A7
-Dm | G7
-C
+C |
 ```
 
 ## Fade-out

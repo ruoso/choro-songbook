@@ -7,7 +7,7 @@
 - year: 1918
 - source: Choro Songbook vol. 2 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → A, last time
+Form: A → B → A → C → A → Coda
 
 ## A
 ```
@@ -29,15 +29,6 @@ D/F# G/F | C/E Cm/Eb | G E7 A7 D7
 1. | G :| 2. G G7 |
 ```
 
-## A again
-```
-C Am | Dm | G7 | C
-E7 | Am | F#7 | Bm
-D7 | G | C7 | F
-A7 | Dm Fm6/Ab | C A7 Dm G7
-C
-```
-
 ## C
 Key: F
 
@@ -49,11 +40,7 @@ Eb | Gm/D | Bbm/Db C7
 1. | F C7 :| 2. F |
 ```
 
-## A, last time
+## Coda
 ```
-C Am | Dm | G7 | C
-E7 | Am | F#7 | Bm
-D7 | G | C7 | F
-A7 | Dm Fm6/Ab | C A7 Dm G7
-C Fm6 | C7M
+C Fm6 | C7M |
 ```

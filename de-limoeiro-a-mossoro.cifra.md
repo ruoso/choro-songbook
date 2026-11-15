@@ -7,26 +7,22 @@
 - year: 1956
 - source: Choro Songbook vol. 1 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A again → C → Fade-out
+Form: A → B → A → C → Fade-out
 
 ## A
 ```
 C7 | % | F | F7
 G7 | % | C | %
 C7 | % | F | F7
-G7 | % | C
-C
+G7 | % | C | C
 C7 | % | F7 | %
-G7 | % | C
-C
+G7 | % | C | C
 C7 | % | F7 | %
-G7 | % | C
-C
+G7 | % | C | C
 C7 | % | F | F7
 G7 | % | C | %
 C7 | % | F | F7
-G7 | % | C
-C
+G7 | % | C | C
 ```
 
 ## B
@@ -34,31 +30,17 @@ Key: Cm
 
 ```
 Cm | Cm7 | Fm | Fm6
-G7 | % | Cm
-Cm
+G7 | % | Cm | Cm
 Cm | Cm7 | Fm | Fm6
-G7 | % | Cm
-Cm
+G7 | % | Cm | Cm
 C7 | % | F | F7
 G7 | % | C | %
 C7 | % | F | F7
-G7 | % | C
-C
+G7 | % | C | C
 C7 | % | F7 | %
-G7 | % | C
-C
+G7 | % | C | C
 C7 | % | F7 | %
-G7 | % | C
-C
-```
-
-## A again
-```
-C7 | % | F | F7
-G7 | % | C | %
-C7 | % | F | F7
-G7 | % | C
-C
+G7 | % | C | C
 ```
 
 ## C

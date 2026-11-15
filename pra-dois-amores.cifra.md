@@ -7,7 +7,7 @@
 - year: 2002
 - source: Choro Songbook vol. 3 (Chediak, Sève, Souza & Dininho, Lumiar), via the DCML Choro Songbooks Corpus, CC BY-NC-SA 4.0
 
-Form: A → B → A, last time
+Form: A → B → A → Coda
 
 ## A
 ```
@@ -32,11 +32,7 @@ C C7M(#5) | Fm6 G7(9)
 Gm7(11) F#7(11) | F#m7 B7
 ```
 
-## A, last time
+## Coda
 ```
-Em Eb(#5) | Em/D C#m7(b5) | C7M(6) Bm7 | Am Am7
-C7M F#m7(11) | F7(#11) B7 | Em G7(9) | F#7(#11) F7(9)
-Em Eb(#5) | Em/D C#m7(b5) | C7M(6) Bm7 | Am Am/G
-C7 C#m7(b5) | G6/D B7/D#
-Em(add9) | C#m7(11) | G#m(add9)
+Em(add9) | C#m7(11) | G#m(add9) |
 ```
